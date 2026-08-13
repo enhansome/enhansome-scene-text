@@ -1,0 +1,1179 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Survey Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools & Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PaddleOCR - Powerful, lightweight OCR toolkit supporting 100+ languages [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T11:59:34Z",
+            "owner": "PaddlePaddle",
+            "repo": "PaddleOCR",
+            "stars": 87579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyOCR - Ready-to-use OCR with 80+ languages support (PyTorch-based) [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-05T12:23:12Z",
+            "owner": "JaidedAI",
+            "repo": "EasyOCR",
+            "stars": 29905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMOCR - Comprehensive OCR toolbox with 7 detection and 5 recognition algorithms [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-27T09:38:10Z",
+            "owner": "open-mmlab",
+            "repo": "mmocr",
+            "stars": 4748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenOCR - Unified benchmark system for training and evaluating scene text models [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T04:54:39Z",
+            "owner": "Topdu",
+            "repo": "OpenOCR",
+            "stars": 1430
+          }
+        }
+      ],
+      "title": "Open Source OCR Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets & Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Major Datasets"
+    },
+    {
+      "description": "Visual Question Answering (VQA) with Scene Text:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ViOCRVQA - 28,000+ images, 120,000+ Vietnamese QA pairs [paper",
+          "description": "] [download]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-09T15:51:49Z",
+            "owner": "qhnhynmm",
+            "repo": "ViOCRVQA-Dataset",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViTextVQA - Vietnamese text comprehension in images [paper",
+          "description": "] [download]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-22T14:19:18Z",
+            "owner": "minhquan6203",
+            "repo": "ViTextVQA-Dataset",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Specialized Domains"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scene Text Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Devil is in Fine-tuning and Long-tailed Problems: A New Benchmark for Scene Text Detection [IJCAI 2025] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-22T14:37:51Z",
+            "owner": "pd162",
+            "repo": "LTB",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scene Text Detection and Recognition \"in light of\" Challenging Environmental Conditions using Aria Glasses Egocentric Vision Cameras [arXiv 2025] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-08T14:48:28Z",
+            "owner": "josepDe",
+            "repo": "Project_Aria_STR",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bridging the Gap Between End-to-End and Two-Step Text Spotting [CVPR 2024] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-11T11:50:02Z",
+            "owner": "mxin262",
+            "repo": "Bridging-Text-Spotting",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revisiting Tampered Scene Text Detection in the Era of Generative AI [AAAI 2025] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-02T12:22:31Z",
+            "owner": "qcf-568",
+            "repo": "OSTF",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ODM: A Text-Image Further Alignment Pre-training Approach for Scene Text Detection and Spotting [CVPR 2024] [paper",
+          "description": "] [code] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-11T14:05:43Z",
+            "owner": "PriNing",
+            "repo": "ODM",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwinTextSpotter v2: Towards Better Synergy for Scene Text Spotting [IJCV 2025] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-27T02:53:03Z",
+            "owner": "mxin262",
+            "repo": "SwinTextSpotterv2",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "2024"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Multilingual Text Spotting [CVPR 2023] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-30T04:09:28Z",
+            "owner": "ViTAE-Transformer",
+            "repo": "DeepSolo",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Robust Tampered Text Detection in Document Image: New dataset and New Solution [CVPR 2023] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T12:24:01Z",
+            "owner": "qcf-568",
+            "repo": "DocTamper",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Supervised Implicit Glyph Attention for Text Recognition [CVPR 2023] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-09T05:39:32Z",
+            "owner": "TongkunGuan",
+            "repo": "SIGA",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESTextSpotter: Towards Better Scene Text Spotting with Explicit Synergy in Transformer [ICCV 2023] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-09T10:07:35Z",
+            "owner": "mxin262",
+            "repo": "ESTextSpotter",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LRANet: Towards Accurate and Efficient Scene Text Detection with Low-Rank Approximation Network [AAAI 2024] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-28T18:47:37Z",
+            "owner": "ychensu",
+            "repo": "LRANet",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bridging Synthetic and Real Worlds for Pre-Training Scene Text Detectors [ECCV 2024] [paper",
+          "description": "] [code] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-07T08:50:32Z",
+            "owner": "SJTU-DeepVisionLab",
+            "repo": "FreeReal",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Towards End-to-End Unified Scene Text Detection and Layout Analysis [CVPR 2022] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T00:05:23Z",
+            "owner": "tensorflow",
+            "repo": "models",
+            "stars": 77660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Real-Time Scene Text Detection with Differentiable Binarization and Adaptive Scale Fusion [TPAMI 2022] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-11T06:19:46Z",
+            "owner": "MhLiao",
+            "repo": "DB",
+            "stars": 2261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwinTextSpotter: Scene Text Spotting via Better Synergy Between Text Detection and Recognition [CVPR 2022] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-29T03:13:35Z",
+            "owner": "mxin262",
+            "repo": "SwinTextSpotter",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arbitrary Shape Text Detection via Boundary Transformer [Transactions on Multimedia 2023] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-05T05:20:30Z",
+            "owner": "GXYM",
+            "repo": "TextBPN-Plus-Plus",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLASS: Global to Local Attention for Scene-Text Spotting [ECCV 2022] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-28T07:35:37Z",
+            "owner": "amazon-science",
+            "repo": "glass-text-spotting",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language Matters: A Weakly Supervised Vision-Language Pre-training Approach for Scene Text Detection and Spotting [ECCV 2022] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-11-04T03:06:51Z",
+            "owner": "bytedance",
+            "repo": "oclip",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Character Region Awareness for Text Detection [CVPR 2019] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-16T04:32:12Z",
+            "owner": "clovaai",
+            "repo": "CRAFT-pytorch",
+            "stars": 3395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DBNet: Real-time Scene Text Detection with Differentiable Binarization [AAAI 2020] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-11T06:19:46Z",
+            "owner": "MhLiao",
+            "repo": "DB",
+            "stars": 2261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Convolutional Character Networks [ICCV 2019] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-26T08:21:39Z",
+            "owner": "msight-tech",
+            "repo": "research-charnet",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network [ICCV 2019] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-06-04T09:08:13Z",
+            "owner": "WenmuZhou",
+            "repo": "PAN.pytorch",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tightness-aware Evaluation Protocol for Scene Text Detection [CVPR 2019] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-25T12:03:58Z",
+            "owner": "Yuliang-Liu",
+            "repo": "TIoU-metric",
+            "stars": 213
+          }
+        }
+      ],
+      "title": "2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shape Robust Text Detection with Progressive Scale Expansion Network [CVPR 2019] [paper",
+          "description": "] [paper] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-07T06:52:32Z",
+            "owner": "whai362",
+            "repo": "PSENet",
+            "stars": 1187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextBoxes++: A Single-Shot Oriented Scene Text Detector [TIP 2018] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-22T00:30:42Z",
+            "owner": "MhLiao",
+            "repo": "TextBoxes_plusplus",
+            "stars": 956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixelLink: Detecting Scene Text via Instance Segmentation [AAAI 2018] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-21T02:17:11Z",
+            "owner": "ZJULearning",
+            "repo": "pixel_link",
+            "stars": 770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes [ECCV 2018] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-03T21:17:12Z",
+            "owner": "princevandev",
+            "repo": "TextSnake.pytorch",
+            "stars": 442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [ECCV 2018] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-27T15:15:46Z",
+            "owner": "MhLiao",
+            "repo": "MaskTextSpotter",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An end-to-end TextSpotter with Explicit Alignment and Attention [CVPR 2018] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-12-15T01:58:34Z",
+            "owner": "tonghe90",
+            "repo": "textspotter",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Detecting multi-oriented text with corner-based region proposals [Neurocomputing 2019] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-04-18T07:41:17Z",
+            "owner": "xhzdeng",
+            "repo": "crpn",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [IJCAI 2018] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-22T14:31:42Z",
+            "owner": "FakerYFX",
+            "repo": "InceptText-Tensorflow",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rotation-Sensitive Regression for Oriented Scene Text Detection [CVPR 2018] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-11-12T04:01:53Z",
+            "owner": "MhLiao",
+            "repo": "RRD",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextField: Learning A Deep Direction Field for Irregular Scene Text Detection [arXiv 2018] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-03-15T12:43:15Z",
+            "owner": "YukangWang",
+            "repo": "TextField",
+            "stars": 100
+          }
+        }
+      ],
+      "title": "2018"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EAST: An Efficient and Accurate Scene Text Detector [CVPR 2017] [paper",
+          "description": "] [code - TF] [code - Keras]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-11-22T01:55:26Z",
+            "owner": "argman",
+            "repo": "EAST",
+            "stars": 3060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection [arXiv 2017] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-20T16:05:42Z",
+            "owner": "DetectionTeamUCAS",
+            "repo": "R2CNN_Faster-RCNN_Tensorflow",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arbitrary-Oriented Scene Text Detection via Rotation Proposals [TMM 2018] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-10-16T02:18:10Z",
+            "owner": "mjq11302010044",
+            "repo": "RRPN",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Detecting Oriented Text in Natural Images by Linking Segments [CVPR 2017] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-30T15:46:41Z",
+            "owner": "bgshih",
+            "repo": "seglink",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Single Shot Text Detector With Regional Attention [ICCV 2017] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-28T08:17:40Z",
+            "owner": "HotaekHan",
+            "repo": "SSTDNet",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "2017"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Detecting Text in Natural Image with Connectionist Text Proposal Network [ECCV 2016] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-03T21:05:26Z",
+            "owner": "eragonruan",
+            "repo": "text-detection-ctpn",
+            "stars": 3430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextBoxes: A Fast Text Detector with a Single Deep Neural Network [AAAI 2017] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-12-07T09:42:12Z",
+            "owner": "MhLiao",
+            "repo": "TextBoxes",
+            "stars": 633
+          }
+        }
+      ],
+      "title": "2016"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scene Text Recognition"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PARSeq: Scene Text Recognition with Permuted Autoregressive Sequence Models [ECCV 2022] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-29T02:02:27Z",
+            "owner": "baudm",
+            "repo": "parseq",
+            "stars": 731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PARSeq: Scene Text Recognition with Permuted Autoregressive Sequence Models [ECCV 2022] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-29T02:02:27Z",
+            "owner": "baudm",
+            "repo": "parseq",
+            "stars": 731
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition [CVPR 2021] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-10-14T08:44:04Z",
+            "owner": "FangShancheng",
+            "repo": "ABINet",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViTSTR: Vision Transformer for Fast and Efficient Scene Text Recognition [ICDAR 2021] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-09T10:25:11Z",
+            "owner": "roatienza",
+            "repo": "deep-text-recognition-benchmark",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViTSTR: Vision Transformer for Fast and Efficient Scene Text Recognition [ICDAR 2021] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-09T10:25:11Z",
+            "owner": "roatienza",
+            "repo": "deep-text-recognition-benchmark",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "What if We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition with Fewer Labels [CVPR 2021] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-23T11:52:21Z",
+            "owner": "ku21fan",
+            "repo": "STR-Fewer-Labels",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dictionary-Guided Scene Text Recognition [CVPR 2021] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-23T02:47:18Z",
+            "owner": "VinAIResearch",
+            "repo": "dict-guided",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Primitive Representation Learning for Scene Text Recognition [CVPR 2021] [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-11T09:09:44Z",
+            "owner": "RuijieJ",
+            "repo": "pren",
+            "stars": 82
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "A Multi-Object Rectified Attention Network for Scene Text Recognition [Pattern Recognition] [paper",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/Canjie-Luo/MORAN_v2",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-07-25T10:12:40Z",
+                "owner": "Canjie-Luo",
+                "repo": "MORAN_v2",
+                "stars": 649
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Aggregation Cross-Entropy for Sequence Recognition [CVPR 2019] [paper",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/summerlvsong/Aggregation-Cross-Entropy",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-12-09T11:30:05Z",
+                "owner": "summerlvsong",
+                "repo": "Aggregation-Cross-Entropy",
+                "stars": 301
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Rethinking Irregular Scene Text Recognition (ICDAR 2019-ArT) [paper",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy",
+              "description": "[PyTorch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Roff",
+                "last_commit": "2022-10-12T23:16:27Z",
+                "owner": "longshangbang",
+                "repo": "ICDAR2019-ArT-Recognition-Alchemy",
+                "stars": 225
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "STN-OCR: A single Neural Network for Text Detection and Text Recognition [arXiv] [paper",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/Bartzi/stn-ocr",
+              "description": "[MXNet]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-01-02T10:14:18Z",
+                "owner": "Bartzi",
+                "repo": "stn-ocr",
+                "stars": 504
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AON: Towards Arbitrarily-Oriented Text Recognition [CVPR 2018] [paper",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/huizhang0110/AON",
+              "description": "[TF]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-07-02T02:10:54Z",
+                "owner": "huizhang0110",
+                "repo": "AON",
+                "stars": 109
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Gated Recurrent Convolution Neural Network for OCR [NIPS 2017] [paper",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/Jianfeng1991/GRCNN-for-OCR",
+              "description": "[Torch]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2021-03-07T14:36:07Z",
+                "owner": "Jianf-Wang",
+                "repo": "GRCNN-for-OCR",
+                "stars": 96
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2017"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Deep Structured Output Learning for Unconstrained Text Recognition [ICLR 2015] [paper",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/AlexandreSev/Structured_Data",
+              "description": "[TF]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-04-06T20:33:04Z",
+                "owner": "AlexandreSev",
+                "repo": "Structured_Data",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Reading text in the wild with convolutional neural networks [IJCV 2016] [paper",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/mathDR/reading-text-in-the-wild",
+              "description": "[Keras]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-06-01T16:04:57Z",
+                "owner": "mathDR",
+                "repo": "reading-text-in-the-wild",
+                "stars": 118
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2014"
+    },
+    {
+      "description": "End-to-end text spotting performs both detection and recognition in a unified framework.",
+      "items": [],
+      "title": "End-to-End Text Spotting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "An end-to-end TextSpotter with Explicit Alignment and Attention [CVPR 2018] [paper",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/tonghe90/textspotter",
+              "description": "[Caffe]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-12-15T01:58:34Z",
+                "owner": "tonghe90",
+                "repo": "textspotter",
+                "stars": 321
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [ECCV 2018] [paper",
+          "description": "]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/lvpengyuan/masktextspotter.caffe2",
+              "description": "[Caffe2]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-10-09T05:20:43Z",
+                "owner": "lvpengyuan",
+                "repo": "masktextspotter.caffe2",
+                "stars": 258
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2018"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video Text Detection & Recognition"
+    },
+    {
+      "description": "Diffusion models for rendering text in images with high quality and controllability.",
+      "items": [],
+      "title": "Text Generation with Diffusion Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Related Text Synthesis Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text Editing & Removal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Weakly Supervised Methods"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Multilingual & Low-Resource Languages"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Document AI & Layout Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other Scene Text Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mathematical Expression Recognition"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Handwritten Text Recognition"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "OCR-Free Visual Question Answering"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Self-Supervised & Contrastive Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Real-Time & Mobile Deployment"
+    },
+    {
+      "description": "To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:52:52.474Z",
+    "original_repository": "janzd/awesome-scene-text",
+    "original_repository_sha": "8ccec8191bf4c058e7a7f560aee48167b8554a97",
+    "enhanced_repository": "enhansome/enhansome-scene-text",
+    "enhanced_repository_description": null,
+    "title": "Awesome Scene Text with stars"
+  }
+}
