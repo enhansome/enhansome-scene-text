@@ -24,7 +24,7 @@
             "last_commit": "2026-07-22T11:59:34Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleOCR",
-            "stars": 87579
+            "stars": 87645
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2025-12-05T12:23:12Z",
             "owner": "JaidedAI",
             "repo": "EasyOCR",
-            "stars": 29905
+            "stars": 29907
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-04T04:54:39Z",
             "owner": "Topdu",
             "repo": "OpenOCR",
-            "stars": 1430
+            "stars": 1431
           }
         }
       ],
@@ -245,7 +245,7 @@
             "last_commit": "2026-08-02T12:24:01Z",
             "owner": "qcf-568",
             "repo": "DocTamper",
-            "stars": 207
+            "stars": 208
           }
         },
         {
@@ -318,10 +318,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T00:05:23Z",
+            "last_commit": "2026-08-13T23:02:45Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660
+            "stars": 77653
           }
         },
         {
@@ -335,7 +335,7 @@
             "last_commit": "2024-03-11T06:19:46Z",
             "owner": "MhLiao",
             "repo": "DB",
-            "stars": 2261
+            "stars": 2260
           }
         },
         {
@@ -425,7 +425,7 @@
             "last_commit": "2024-03-11T06:19:46Z",
             "owner": "MhLiao",
             "repo": "DB",
-            "stars": 2261
+            "stars": 2260
           }
         },
         {
@@ -1169,7 +1169,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:52:52.474Z",
+    "last_updated": "2026-08-14T15:43:58.384Z",
     "original_repository": "janzd/awesome-scene-text",
     "original_repository_sha": "8ccec8191bf4c058e7a7f560aee48167b8554a97",
     "enhanced_repository": "enhansome/enhansome-scene-text",
