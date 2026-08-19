@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-22T11:59:34Z",
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 87913
+                "stars": 87919
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-12-05T12:23:12Z",
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29916
+                "stars": 29917
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2024-11-27T09:38:10Z",
                 "owner": "open-mmlab",
                 "repo": "mmocr",
-                "stars": 4748
+                "stars": 4749
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-04T04:54:39Z",
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1435
+                "stars": 1436
               }
             }
           ],
@@ -1218,7 +1218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:51:19.092Z",
+    "last_updated": "2026-08-19T15:23:36.264Z",
     "original_repository": "janzd/awesome-scene-text",
     "original_repository_id": 180091716,
     "original_repository_sha": "8ccec8191bf4c058e7a7f560aee48167b8554a97",
