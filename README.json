@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-22T11:59:34Z",
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 87919
+                "stars": 87993
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-12-05T12:23:12Z",
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29917
+                "stars": 29922
               }
             },
             {
@@ -296,7 +296,7 @@
                 "last_commit": "2026-08-02T12:24:01Z",
                 "owner": "qcf-568",
                 "repo": "DocTamper",
-                "stars": 208
+                "stars": 210
               }
             },
             {
@@ -378,7 +378,7 @@
                 "last_commit": "2026-08-17T23:06:28Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77651
+                "stars": 77648
               }
             },
             {
@@ -475,7 +475,7 @@
                 "last_commit": "2024-07-16T04:32:12Z",
                 "owner": "clovaai",
                 "repo": "CRAFT-pytorch",
-                "stars": 3395
+                "stars": 3396
               }
             },
             {
@@ -1022,7 +1022,7 @@
                     "last_commit": "2022-10-12T23:16:27Z",
                     "owner": "longshangbang",
                     "repo": "ICDAR2019-ArT-Recognition-Alchemy",
-                    "stars": 225
+                    "stars": 226
                   }
                 }
               ]
@@ -1218,7 +1218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:23:36.264Z",
+    "last_updated": "2026-08-20T15:26:23.820Z",
     "original_repository": "janzd/awesome-scene-text",
     "original_repository_id": 180091716,
     "original_repository_sha": "8ccec8191bf4c058e7a7f560aee48167b8554a97",
