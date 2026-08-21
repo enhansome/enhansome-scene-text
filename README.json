@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-22T11:59:34Z",
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 87993
+                "stars": 88058
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-12-05T12:23:12Z",
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29922
+                "stars": 29930
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2024-11-27T09:38:10Z",
                 "owner": "open-mmlab",
                 "repo": "mmocr",
-                "stars": 4749
+                "stars": 4751
               }
             },
             {
@@ -375,10 +375,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-17T23:06:28Z",
+                "last_commit": "2026-08-21T05:54:38Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77648
+                "stars": 77647
               }
             },
             {
@@ -408,7 +408,7 @@
                 "last_commit": "2024-11-29T03:13:35Z",
                 "owner": "mxin262",
                 "repo": "SwinTextSpotter",
-                "stars": 290
+                "stars": 289
               }
             },
             {
@@ -714,7 +714,7 @@
                 "last_commit": "2022-11-22T01:55:26Z",
                 "owner": "argman",
                 "repo": "EAST",
-                "stars": 3060
+                "stars": 3059
               }
             },
             {
@@ -1218,7 +1218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:26:23.820Z",
+    "last_updated": "2026-08-21T15:25:42.533Z",
     "original_repository": "janzd/awesome-scene-text",
     "original_repository_id": 180091716,
     "original_repository_sha": "8ccec8191bf4c058e7a7f560aee48167b8554a97",
