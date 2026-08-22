@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-22T11:59:34Z",
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 88058
+                "stars": 88104
               }
             },
             {
@@ -375,10 +375,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-21T05:54:38Z",
+                "last_commit": "2026-08-21T16:27:30Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77647
+                "stars": 77648
               }
             },
             {
@@ -1218,7 +1218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:25:42.533Z",
+    "last_updated": "2026-08-22T15:13:23.347Z",
     "original_repository": "janzd/awesome-scene-text",
     "original_repository_id": 180091716,
     "original_repository_sha": "8ccec8191bf4c058e7a7f560aee48167b8554a97",

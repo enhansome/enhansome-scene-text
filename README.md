@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,533 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,882 | 🐛 105 | 📅 2026-08-21
 
 # Awesome Scene Text with stars
 
@@ -65,7 +65,7 @@ A curated list of papers and resources for scene text detection and recognition.
 
 ### Open Source OCR Systems
 
-* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 88,058 | 🐛 235 | 🌐 Python | 📅 2026-07-22]
+* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 88,104 | 🐛 235 | 🌐 Python | 📅 2026-07-22]
 * **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) \[[code](https://github.com/JaidedAI/EasyOCR) ⭐ 29,930 | 🐛 530 | 🌐 Python | 📅 2025-12-05]
 * **MMOCR** - Comprehensive OCR toolbox with 7 detection and 5 recognition algorithms \[[code](https://github.com/open-mmlab/mmocr) ⭐ 4,751 | 🐛 194 | 🌐 Python | 📅 2024-11-27]
 * **OpenOCR** - Unified benchmark system for training and evaluating scene text models \[[code](https://github.com/Topdu/OpenOCR) ⭐ 1,436 | 🐛 101 | 🌐 Python | 📅 2026-08-04]
@@ -214,7 +214,7 @@ For detailed comparisons of these tools, see:
 
 ### 2022
 
-* **Towards End-to-End Unified Scene Text Detection and Layout Analysis** \[CVPR 2022] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Towards_End-to-End_Unified_Scene_Text_Detection_and_Layout_Analysis_CVPR_2022_paper.pdf)] \[[code](https://github.com/tensorflow/models/tree/master/official/projects/unified_detector) ⭐ 77,647 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21]
+* **Towards End-to-End Unified Scene Text Detection and Layout Analysis** \[CVPR 2022] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Towards_End-to-End_Unified_Scene_Text_Detection_and_Layout_Analysis_CVPR_2022_paper.pdf)] \[[code](https://github.com/tensorflow/models/tree/master/official/projects/unified_detector) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21]
 * **Real-Time Scene Text Detection with Differentiable Binarization and Adaptive Scale Fusion** \[TPAMI 2022] \[[paper](https://arxiv.org/abs/2202.10304)] \[[code](https://github.com/MhLiao/DB) ⭐ 2,260 | 🐛 203 | 🌐 Python | 📅 2024-03-11]
 * **SwinTextSpotter: Scene Text Spotting via Better Synergy Between Text Detection and Recognition** \[CVPR 2022] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_SwinTextSpotter_Scene_Text_Spotting_via_Better_Synergy_Between_Text_Detection_CVPR_2022_paper.html)] \[[code](https://github.com/mxin262/SwinTextSpotter) ⭐ 289 | 🐛 42 | 🌐 Python | 📅 2024-11-29]
 * **Arbitrary Shape Text Detection via Boundary Transformer** \[Transactions on Multimedia 2023] \[[paper](https://arxiv.org/abs/2205.05320)] \[[code](https://github.com/GXYM/TextBPN-Plus-Plus) ⭐ 204 | 🐛 27 | 🌐 Python | 📅 2025-11-05]
@@ -232,7 +232,7 @@ For detailed comparisons of these tools, see:
 * **Progressive Contour Regression for Arbitrary-Shape Scene Text Detection** \[CVPR 2021] \[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf)]
 * **Fourier Contour Embedding for Arbitrary-Shaped Text Detection** \[CVPR 2021] \[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Fourier_Contour_Embedding_for_Arbitrary-Shaped_Text_Detection_CVPR_2021_paper.pdf)]
 * **A Straightforward and Efficient Instance-Aware Curved Text Detector** \[Sensors 2021] \[[paper](https://www.mdpi.com/1424-8220/21/6/1945)]
-* **FAST: Searching for a Faster Arbitrarily-Shaped Text Detector with Minimalist Kernel Representation** \[arXiv 2021] \[[paper](https://arxiv.org/abs/2111.02394)] \[[code](https://github.com/czczup/FAST) ⭐ 207 | 🐛 9 | 🌐 Python | 📅 2025-05-23]
+* **FAST: Searching for a Faster Arbitrarily-Shaped Text Detector with Minimalist Kernel Representation** \[arXiv 2021] \[[paper](https://arxiv.org/abs/2111.02394)] \[[code](https://github.com/czczup/FAST) ⭐ 208 | 🐛 9 | 🌐 Python | 📅 2025-05-23]
 * **Detection and rectification of arbitrary shaped scene texts by using text keypoints and links** \[Pattern Recognition 2021] \[[paper](https://arxiv.org/abs/2103.00785)]
 * **Arbitrary-shaped scene text detection by predicting distance map** \[Applied Intelligence 2021] \[[paper](https://dl.acm.org/doi/abs/10.1007/s10489-021-03065-z)]
 
@@ -800,4 +800,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
