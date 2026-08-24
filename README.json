@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-04T04:54:39Z",
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1436
+                "stars": 1437
               }
             }
           ],
@@ -1786,7 +1786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:10.913Z",
+    "last_updated": "2026-08-24T15:31:35.670Z",
     "original_repository": "janzd/awesome-scene-text",
     "original_repository_id": 180091716,
     "original_repository_sha": "8ccec8191bf4c058e7a7f560aee48167b8554a97",
