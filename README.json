@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-22T11:59:34Z",
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 88238
+                "stars": 88259
               }
             },
             {
@@ -370,7 +370,7 @@
                 "last_commit": "2026-08-02T12:24:01Z",
                 "owner": "qcf-568",
                 "repo": "DocTamper",
-                "stars": 210
+                "stars": 211
               }
             },
             {
@@ -482,7 +482,7 @@
                 "last_commit": "2024-11-29T03:13:35Z",
                 "owner": "mxin262",
                 "repo": "SwinTextSpotter",
-                "stars": 289
+                "stars": 288
               }
             },
             {
@@ -1566,7 +1566,7 @@
                 "last_commit": "2024-11-29T03:13:35Z",
                 "owner": "mxin262",
                 "repo": "SwinTextSpotter",
-                "stars": 289
+                "stars": 288
               }
             }
           ],
@@ -1786,7 +1786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:41:33.780Z",
+    "last_updated": "2026-08-25T15:34:59.748Z",
     "original_repository": "janzd/awesome-scene-text",
     "original_repository_id": 180091716,
     "original_repository_sha": "8ccec8191bf4c058e7a7f560aee48167b8554a97",
