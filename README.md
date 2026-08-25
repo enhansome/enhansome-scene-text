@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,529 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,708 | 🐛 106 | 📅 2026-08-21
 
 # Awesome Scene Text with stars
 
@@ -65,8 +65,8 @@ A curated list of papers and resources for scene text detection and recognition.
 
 ### Open Source OCR Systems
 
-* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 88,216 | 🐛 233 | 🌐 Python | 📅 2026-07-22]
-* **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) \[[code](https://github.com/JaidedAI/EasyOCR) ⭐ 29,933 | 🐛 530 | 🌐 Python | 📅 2025-12-05]
+* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 88,238 | 🐛 232 | 🌐 Python | 📅 2026-07-22]
+* **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) \[[code](https://github.com/JaidedAI/EasyOCR) ⭐ 29,936 | 🐛 530 | 🌐 Python | 📅 2025-12-05]
 * **MMOCR** - Comprehensive OCR toolbox with 7 detection and 5 recognition algorithms \[[code](https://github.com/open-mmlab/mmocr) ⭐ 4,752 | 🐛 194 | 🌐 Python | 📅 2024-11-27]
 * **OpenOCR** - Unified benchmark system for training and evaluating scene text models \[[code](https://github.com/Topdu/OpenOCR) ⭐ 1,437 | 🐛 101 | 🌐 Python | 📅 2026-08-04]
 
@@ -308,7 +308,7 @@ For detailed comparisons of these tools, see:
 
 ### 2016
 
-* **Detecting Text in Natural Image with Connectionist Text Proposal Network** \[ECCV 2016] \[[paper](https://arxiv.org/abs/1609.03605)] \[[code](https://github.com/eragonruan/text-detection-ctpn) ⭐ 3,430 | 🐛 290 | 🌐 Python | 📅 2023-10-03]
+* **Detecting Text in Natural Image with Connectionist Text Proposal Network** \[ECCV 2016] \[[paper](https://arxiv.org/abs/1609.03605)] \[[code](https://github.com/eragonruan/text-detection-ctpn) ⭐ 3,429 | 🐛 290 | 🌐 Python | 📅 2023-10-03]
 * **TextBoxes: A Fast Text Detector with a Single Deep Neural Network** \[AAAI 2017] \[[paper](https://arxiv.org/abs/1611.06779)] \[[code](https://github.com/MhLiao/TextBoxes) ⭐ 633 | 🐛 45 | 🌐 C++ | 📅 2018-12-07]
 * **Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network** \[arXiv 2016] \[[paper](https://arxiv.org/abs/1603.09423)]
 * **Multi-Oriented Text Detection With Fully Convolutional Networks** \[CVPR 2016] \[[paper](https://arxiv.org/abs/1604.04018)]
@@ -800,4 +800,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

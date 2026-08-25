@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-22T11:59:34Z",
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 88216
+                "stars": 88238
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-12-05T12:23:12Z",
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29933
+                "stars": 29936
               }
             },
             {
@@ -914,7 +914,7 @@
                 "last_commit": "2023-10-03T21:05:26Z",
                 "owner": "eragonruan",
                 "repo": "text-detection-ctpn",
-                "stars": 3430
+                "stars": 3429
               }
             },
             {
@@ -1152,7 +1152,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Canjie-Luo/MORAN_v2",
+                  "title": "Canjie-Luo/MORAN_v2",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1174,7 +1174,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/summerlvsong/Aggregation-Cross-Entropy",
+                  "title": "summerlvsong/Aggregation-Cross-Entropy",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1196,7 +1196,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy",
+                  "title": "longshangbang/ICDAR2019-ArT-Recognition-Alchemy",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1225,7 +1225,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/bgshih/aster",
+                  "title": "bgshih/aster",
                   "description": "[TF]",
                   "children": [],
                   "repo_info": {
@@ -1254,7 +1254,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Bartzi/stn-ocr",
+                  "title": "Bartzi/stn-ocr",
                   "description": "[MXNet]",
                   "children": [],
                   "repo_info": {
@@ -1276,7 +1276,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/huizhang0110/AON",
+                  "title": "huizhang0110/AON",
                   "description": "[TF]",
                   "children": [],
                   "repo_info": {
@@ -1298,7 +1298,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Jianfeng1991/GRCNN-for-OCR",
+                  "title": "Jianf-Wang/GRCNN-for-OCR",
                   "description": "[Torch]",
                   "children": [],
                   "repo_info": {
@@ -1327,7 +1327,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/WarBean/tps_stn_pytorch",
+                  "title": "WarBean/tps_stn_pytorch",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1356,7 +1356,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/meijieru/crnn.pytorch",
+                  "title": "meijieru/crnn.pytorch",
                   "description": "[PyTorch]",
                   "children": [],
                   "repo_info": {
@@ -1371,7 +1371,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/bgshih/crnn",
+                  "title": "bgshih/crnn",
                   "description": "[Torch]",
                   "children": [],
                   "repo_info": {
@@ -1386,7 +1386,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/MaybeShewill-CV/CRNN_Tensorflow",
+                  "title": "MaybeShewill-CV/CRNN_Tensorflow",
                   "description": "[TF]",
                   "children": [],
                   "repo_info": {
@@ -1401,7 +1401,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/weinman/cnn_lstm_ctc_ocr",
+                  "title": "weinman/cnn_lstm_ctc_ocr",
                   "description": "[TF]",
                   "children": [],
                   "repo_info": {
@@ -1416,7 +1416,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/watsonyanghx/CNN_LSTM_CTC_Tensorflow",
+                  "title": "watsonyanghx/CNN_LSTM_CTC_Tensorflow",
                   "description": "[TF]",
                   "children": [],
                   "repo_info": {
@@ -1431,7 +1431,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "https://github.com/kurapan/CRNN",
+                  "title": "janzd/CRNN",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -1460,7 +1460,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/AlexandreSev/Structured_Data",
+                  "title": "AlexandreSev/Structured_Data",
                   "description": "[TF]",
                   "children": [],
                   "repo_info": {
@@ -1482,7 +1482,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/mathDR/reading-text-in-the-wild",
+                  "title": "mathDR/reading-text-in-the-wild",
                   "description": "[Keras]",
                   "children": [],
                   "repo_info": {
@@ -1583,7 +1583,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/tonghe90/textspotter",
+                  "title": "tonghe90/textspotter",
                   "description": "[Caffe]",
                   "children": [],
                   "repo_info": {
@@ -1605,7 +1605,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/lvpengyuan/masktextspotter.caffe2",
+                  "title": "lvpengyuan/masktextspotter.caffe2",
                   "description": "[Caffe2]",
                   "children": [],
                   "repo_info": {
@@ -1634,7 +1634,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Bartzi/see",
+                  "title": "Bartzi/see",
                   "description": "[Chainer]",
                   "children": [],
                   "repo_info": {
@@ -1693,7 +1693,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "https://github.com/ankush-me/SynthText",
+                      "title": "ankush-me/SynthText",
                       "description": null,
                       "children": [],
                       "repo_info": {
@@ -1733,7 +1733,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/Bartzi/see",
+                  "title": "Bartzi/see",
                   "description": "[Chainer]",
                   "children": [],
                   "repo_info": {
@@ -1786,7 +1786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:31:35.670Z",
+    "last_updated": "2026-08-25T06:41:33.780Z",
     "original_repository": "janzd/awesome-scene-text",
     "original_repository_id": 180091716,
     "original_repository_sha": "8ccec8191bf4c058e7a7f560aee48167b8554a97",
