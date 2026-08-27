@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-22T11:59:34Z",
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 88303
+                "stars": 88338
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-12-05T12:23:12Z",
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29940
+                "stars": 29943
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-04T04:54:39Z",
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1437
+                "stars": 1438
               }
             }
           ],
@@ -449,10 +449,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:25:59Z",
+                "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652
+                "stars": 77653
               }
             },
             {
@@ -1786,9 +1786,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:11:48.982Z",
-    "original_repository": "janzd/awesome-scene-text",
-    "original_repository_id": 180091716,
+    "last_updated": "2026-08-27T12:04:20.285Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 180091716,
+      "language": null,
+      "last_commit": "2026-02-09T17:49:14Z",
+      "owner": "janzd",
+      "repo": "awesome-scene-text",
+      "stars": 51
+    },
     "original_repository_sha": "8ccec8191bf4c058e7a7f560aee48167b8554a97",
     "enhanced_repository": "enhansome/enhansome-scene-text",
     "enhanced_repository_description": null,
