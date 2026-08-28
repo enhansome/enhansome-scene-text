@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-22T11:59:34Z",
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 88338
+                "stars": 88356
               }
             },
             {
@@ -449,10 +449,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:28:47Z",
+                "last_commit": "2026-08-27T22:13:58Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653
+                "stars": 77656
               }
             },
             {
@@ -1786,7 +1786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:20.285Z",
+    "last_updated": "2026-08-28T00:10:49.950Z",
     "original_repository_info": {
       "archived": false,
       "id": 180091716,
