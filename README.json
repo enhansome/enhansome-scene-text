@@ -21,7 +21,7 @@
                 "open_issues": 233,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 88491,
+                "stars": 88548,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 530,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29953,
+                "stars": 29962,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -93,7 +93,7 @@
                 "open_issues": 194,
                 "owner": "open-mmlab",
                 "repo": "mmocr",
-                "stars": 4753,
+                "stars": 4752,
                 "topics": [
                   "abcnet",
                   "abinet",
@@ -132,7 +132,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-04T04:54:39Z",
-                "open_issues": 101,
+                "open_issues": 102,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
                 "stars": 1440,
@@ -319,7 +319,7 @@
                     "language": "Python",
                     "license": "CC-BY-4.0",
                     "last_commit": "2023-10-09T14:47:39Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "weijiawu",
                     "repo": "BOVText-Benchmark",
                     "stars": 70,
@@ -582,7 +582,7 @@
                 "open_issues": 25,
                 "owner": "qcf-568",
                 "repo": "DocTamper",
-                "stars": 212,
+                "stars": 213,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -697,7 +697,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77659,
+                "stars": 77660,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -718,7 +718,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2259,
+                "stars": 2260,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -901,7 +901,7 @@
                 "open_issues": 115,
                 "owner": "clovaai",
                 "repo": "CRAFT-pytorch",
-                "stars": 3399,
+                "stars": 3398,
                 "topics": [
                   "craft",
                   "curved-text",
@@ -931,7 +931,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2259,
+                "stars": 2260,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -955,7 +955,7 @@
                 "open_issues": 40,
                 "owner": "msight-tech",
                 "repo": "research-charnet",
-                "stars": 617,
+                "stars": 616,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 56,
                 "owner": "MhLiao",
                 "repo": "TextBoxes_plusplus",
-                "stars": 956,
+                "stars": 955,
                 "topics": [
                   "ocr",
                   "scene-text",
@@ -1142,7 +1142,7 @@
                 "open_issues": 18,
                 "owner": "tonghe90",
                 "repo": "textspotter",
-                "stars": 321,
+                "stars": 320,
                 "topics": [
                   "caffe",
                   "cvpr2018",
@@ -2395,7 +2395,7 @@
                     "open_issues": 18,
                     "owner": "tonghe90",
                     "repo": "textspotter",
-                    "stars": 321,
+                    "stars": 320,
                     "topics": [
                       "caffe",
                       "cvpr2018",
@@ -2507,7 +2507,7 @@
                 "open_issues": 120,
                 "owner": "tyxsspa",
                 "repo": "AnyText",
-                "stars": 4874,
+                "stars": 4875,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:19:29.347Z",
+    "last_updated": "2026-08-31T20:32:51.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
