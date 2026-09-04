@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-22T11:59:34Z",
-                "open_issues": 239,
+                "open_issues": 240,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 88809,
+                "stars": 88870,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 530,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29967,
+                "stars": 29972,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -135,7 +135,7 @@
                 "open_issues": 102,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1440,
+                "stars": 1441,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -693,11 +693,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T18:30:36Z",
-                "open_issues": 1272,
+                "last_commit": "2026-09-03T23:11:37Z",
+                "open_issues": 1273,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77660,
+                "stars": 77661,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -718,7 +718,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2261,
+                "stars": 2262,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -931,7 +931,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2261,
+                "stars": 2262,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -2021,7 +2021,7 @@
                     "open_issues": 11,
                     "owner": "WarBean",
                     "repo": "tps_stn_pytorch",
-                    "stars": 957,
+                    "stars": 958,
                     "topics": [
                       "pytorch",
                       "spatial-transformer-network",
@@ -2507,7 +2507,7 @@
                 "open_issues": 120,
                 "owner": "tyxsspa",
                 "repo": "AnyText",
-                "stars": 4874,
+                "stars": 4873,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:16:19.951Z",
+    "last_updated": "2026-09-04T17:56:56.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
