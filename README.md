@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,570 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,931 | 🐛 106 | 📅 2026-09-02
 
 # Awesome Scene Text with stars
 
@@ -65,10 +65,10 @@ A curated list of papers and resources for scene text detection and recognition.
 
 ### Open Source OCR Systems
 
-* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 88,965 | 🐛 242 | 🌐 Python | 📅 2026-07-22]
-* **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) \[[code](https://github.com/JaidedAI/EasyOCR) ⭐ 29,977 | 🐛 530 | 🌐 Python | 📅 2025-12-05]
+* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 89,035 | 🐛 243 | 🌐 Python | 📅 2026-07-22]
+* **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) \[[code](https://github.com/JaidedAI/EasyOCR) ⭐ 29,979 | 🐛 530 | 🌐 Python | 📅 2025-12-05]
 * **MMOCR** - Comprehensive OCR toolbox with 7 detection and 5 recognition algorithms \[[code](https://github.com/open-mmlab/mmocr) ⭐ 4,752 | 🐛 194 | 🌐 Python | 📅 2024-11-27]
-* **OpenOCR** - Unified benchmark system for training and evaluating scene text models \[[code](https://github.com/Topdu/OpenOCR) ⭐ 1,444 | 🐛 102 | 🌐 Python | 📅 2026-08-04]
+* **OpenOCR** - Unified benchmark system for training and evaluating scene text models \[[code](https://github.com/Topdu/OpenOCR) ⭐ 1,445 | 🐛 102 | 🌐 Python | 📅 2026-08-04]
 
 ### Comparison
 
@@ -244,7 +244,7 @@ For detailed comparisons of these tools, see:
 
 ### 2019
 
-* **Character Region Awareness for Text Detection** \[CVPR 2019] \[[paper](https://arxiv.org/abs/1904.01941)] \[[code](https://github.com/clovaai/CRAFT-pytorch) ⭐ 3,398 | 🐛 115 | 🌐 Python | 📅 2024-07-16]
+* **Character Region Awareness for Text Detection** \[CVPR 2019] \[[paper](https://arxiv.org/abs/1904.01941)] \[[code](https://github.com/clovaai/CRAFT-pytorch) ⭐ 3,400 | 🐛 115 | 🌐 Python | 📅 2024-07-16]
 * **DBNet: Real-time Scene Text Detection with Differentiable Binarization** \[AAAI 2020] \[[paper](https://arxiv.org/abs/1911.08947)] \[[code](https://github.com/MhLiao/DB) ⭐ 2,262 | 🐛 203 | 🌐 Python | 📅 2024-03-11]
 * **Convolutional Character Networks** \[ICCV 2019] \[[paper](https://arxiv.org/abs/1910.07954)] \[[code](https://github.com/msight-tech/research-charnet) ⭐ 616 | 🐛 40 | 🌐 Python | 📅 2023-01-26]
 * **Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network** \[ICCV 2019] \[[paper](https://arxiv.org/abs/1908.05900)] \[[code](https://github.com/WenmuZhou/PAN.pytorch) ⭐ 421 | 🐛 20 | 🌐 C++ | 📅 2021-06-04]
@@ -288,9 +288,9 @@ For detailed comparisons of these tools, see:
 
 ### 2017
 
-* **EAST: An Efficient and Accurate Scene Text Detector** \[CVPR 2017] \[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf)] \[[code - TF](https://github.com/argman/EAST) ⭐ 3,059 | 🐛 264 | 🌐 C++ | 📅 2022-11-22] \[[code - Keras](https://github.com/janzd/EAST) ⭐ 214 | 🐛 21 | 🌐 Python | 📅 2022-11-22]
+* **EAST: An Efficient and Accurate Scene Text Detector** \[CVPR 2017] \[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf)] \[[code - TF](https://github.com/argman/EAST) ⭐ 3,058 | 🐛 264 | 🌐 C++ | 📅 2022-11-22] \[[code - Keras](https://github.com/janzd/EAST) ⭐ 214 | 🐛 21 | 🌐 Python | 📅 2022-11-22]
 * **R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection** \[arXiv 2017] \[[paper](https://arxiv.org/abs/1706.09579)] \[[code](https://github.com/DetectionTeamUCAS/R2CNN_Faster-RCNN_Tensorflow) ⭐ 583 | 🐛 25 | 🌐 Python | 📅 2020-11-20]
-* **Arbitrary-Oriented Scene Text Detection via Rotation Proposals** \[TMM 2018] \[[paper](https://arxiv.org/abs/1703.01086)] \[[code](https://github.com/mjq11302010044/RRPN) ⭐ 434 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2020-10-16]
+* **Arbitrary-Oriented Scene Text Detection via Rotation Proposals** \[TMM 2018] \[[paper](https://arxiv.org/abs/1703.01086)] \[[code](https://github.com/mjq11302010044/RRPN) ⭐ 433 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2020-10-16]
 * **Detecting Oriented Text in Natural Images by Linking Segments** \[CVPR 2017] \[[paper](https://arxiv.org/abs/1703.06520)] \[[code](https://github.com/bgshih/seglink) ⭐ 244 | 🐛 10 | 🌐 Python | 📅 2017-12-30]
 * **Single Shot Text Detector With Regional Attention** \[ICCV 2017] \[[paper](https://arxiv.org/abs/1709.00138)] \[[code](https://github.com/HotaekHan/SSTDNet) ⭐ 83 | 🐛 3 | 🌐 Python | 📅 2018-02-28]
 * **Multi-scale FCN with Cascaded Instance Aware Segmentation for Arbitrary Oriented Word Spotting In The Wild** \[CVPR 2017] \[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/He_Multi-Scale_FCN_With_CVPR_2017_paper.pdf)]
@@ -579,7 +579,7 @@ Diffusion models for rendering text in images with high quality and controllabil
 
 ### 2023
 
-* **AnyText: Multilingual Visual Text Generation And Editing** \[ICLR 2024 Spotlight] \[[paper](https://arxiv.org/abs/2311.03054)] \[[code](https://github.com/tyxsspa/AnyText) ⭐ 4,874 | 🐛 120 | 🌐 Python | 📅 2025-03-07]
+* **AnyText: Multilingual Visual Text Generation And Editing** \[ICLR 2024 Spotlight] \[[paper](https://arxiv.org/abs/2311.03054)] \[[code](https://github.com/tyxsspa/AnyText) ⭐ 4,875 | 🐛 120 | 🌐 Python | 📅 2025-03-07]
 * **TextDiffuser: Diffusion Models as Text Painters** \[arXiv 2023] \[[paper](https://arxiv.org/abs/2305.10855)] \[[project](https://jingyechen.github.io/textdiffuser/)]
 
 ### Related Text Synthesis Papers
@@ -800,4 +800,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
