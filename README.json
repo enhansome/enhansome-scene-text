@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-22T11:59:34Z",
-                "open_issues": 242,
+                "open_issues": 240,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 89125,
+                "stars": 89201,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 530,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29983,
+                "stars": 29986,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -233,7 +233,7 @@
                     "open_issues": 7,
                     "owner": "Yuliang-Liu",
                     "repo": "Curve-Text-Detector",
-                    "stars": 653,
+                    "stars": 654,
                     "topics": [
                       "deep-learning",
                       "document-analysis",
@@ -693,11 +693,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T00:14:58Z",
+                "last_commit": "2026-09-09T03:15:30Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77656,
+                "stars": 77658,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -901,7 +901,7 @@
                 "open_issues": 115,
                 "owner": "clovaai",
                 "repo": "CRAFT-pytorch",
-                "stars": 3399,
+                "stars": 3400,
                 "topics": [
                   "craft",
                   "curved-text",
@@ -997,7 +997,7 @@
                 "open_issues": 3,
                 "owner": "Yuliang-Liu",
                 "repo": "TIoU-metric",
-                "stars": 213,
+                "stars": 214,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -1523,7 +1523,7 @@
                 "open_issues": 50,
                 "owner": "baudm",
                 "repo": "parseq",
-                "stars": 737,
+                "stars": 739,
                 "topics": [
                   "computer-vision",
                   "eccv",
@@ -1553,7 +1553,7 @@
                 "open_issues": 50,
                 "owner": "baudm",
                 "repo": "parseq",
-                "stars": 737,
+                "stars": 739,
                 "topics": [
                   "computer-vision",
                   "eccv",
@@ -2021,7 +2021,7 @@
                     "open_issues": 11,
                     "owner": "WarBean",
                     "repo": "tps_stn_pytorch",
-                    "stars": 958,
+                    "stars": 957,
                     "topics": [
                       "pytorch",
                       "spatial-transformer-network",
@@ -2085,7 +2085,7 @@
                     "open_issues": 91,
                     "owner": "bgshih",
                     "repo": "crnn",
-                    "stars": 2104,
+                    "stars": 2103,
                     "topics": [
                       "computer-vision",
                       "machine-learning",
@@ -2112,7 +2112,7 @@
                     "open_issues": 0,
                     "owner": "MaybeShewill-CV",
                     "repo": "CRNN_Tensorflow",
-                    "stars": 1039,
+                    "stars": 1038,
                     "topics": [
                       "chinese-ocr",
                       "crnn-tensorflow",
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:13:19.137Z",
+    "last_updated": "2026-09-09T18:13:04.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
@@ -2663,7 +2663,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-02-09T17:49:14Z",
-      "open_issues": 1,
+      "open_issues": 0,
       "owner": "janzd",
       "repo": "awesome-scene-text",
       "stars": 52,
