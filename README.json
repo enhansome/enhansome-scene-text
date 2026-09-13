@@ -21,7 +21,7 @@
                 "open_issues": 241,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 89386,
+                "stars": 89438,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 530,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29987,
+                "stars": 29990,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -697,7 +697,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77661,
+                "stars": 77659,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:35:39.869Z",
+    "last_updated": "2026-09-13T17:48:58.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
