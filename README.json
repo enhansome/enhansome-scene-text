@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-22T11:59:34Z",
-                "open_issues": 241,
+                "open_issues": 243,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 89438,
+                "stars": 89520,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 530,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29990,
+                "stars": 29988,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -287,7 +287,7 @@
                     "open_issues": 9,
                     "owner": "Mountchicken",
                     "repo": "Union14M",
-                    "stars": 205,
+                    "stars": 204,
                     "topics": [
                       "dataset",
                       "mae",
@@ -582,7 +582,7 @@
                 "open_issues": 25,
                 "owner": "qcf-568",
                 "repo": "DocTamper",
-                "stars": 214,
+                "stars": 216,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -718,7 +718,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2264,
+                "stars": 2265,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -931,7 +931,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2264,
+                "stars": 2265,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -1392,7 +1392,7 @@
                 "open_issues": 290,
                 "owner": "eragonruan",
                 "repo": "text-detection-ctpn",
-                "stars": 3429,
+                "stars": 3428,
                 "topics": [
                   "ctpn",
                   "id-card",
@@ -1488,7 +1488,7 @@
                 "open_issues": 9,
                 "owner": "Mountchicken",
                 "repo": "Union14M",
-                "stars": 205,
+                "stars": 204,
                 "topics": [
                   "dataset",
                   "mae",
@@ -1611,7 +1611,7 @@
                 "open_issues": 27,
                 "owner": "roatienza",
                 "repo": "deep-text-recognition-benchmark",
-                "stars": 314,
+                "stars": 313,
                 "topics": [
                   "ocr",
                   "str",
@@ -1637,7 +1637,7 @@
                 "open_issues": 27,
                 "owner": "roatienza",
                 "repo": "deep-text-recognition-benchmark",
-                "stars": 314,
+                "stars": 313,
                 "topics": [
                   "ocr",
                   "str",
@@ -1786,7 +1786,7 @@
                     "open_issues": 29,
                     "owner": "Canjie-Luo",
                     "repo": "MORAN_v2",
-                    "stars": 649,
+                    "stars": 648,
                     "topics": [
                       "attention-mechanism",
                       "image-deformation",
@@ -2507,7 +2507,7 @@
                 "open_issues": 120,
                 "owner": "tyxsspa",
                 "repo": "AnyText",
-                "stars": 4875,
+                "stars": 4877,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:48:58.868Z",
+    "last_updated": "2026-09-14T19:42:13.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
