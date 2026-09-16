@@ -17,11 +17,11 @@
                 "id": 262296122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-22T11:59:34Z",
-                "open_issues": 243,
+                "last_commit": "2026-09-16T03:31:50Z",
+                "open_issues": 247,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 89586,
+                "stars": 89654,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -53,10 +53,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-12-05T12:23:12Z",
-                "open_issues": 530,
+                "open_issues": 531,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 29992,
+                "stars": 29995,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -93,7 +93,7 @@
                 "open_issues": 194,
                 "owner": "open-mmlab",
                 "repo": "mmocr",
-                "stars": 4751,
+                "stars": 4750,
                 "topics": [
                   "abcnet",
                   "abinet",
@@ -135,7 +135,7 @@
                 "open_issues": 103,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1450,
+                "stars": 1451,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -697,7 +697,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77659,
+                "stars": 77658,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:38:26.554Z",
+    "last_updated": "2026-09-16T18:35:23.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
