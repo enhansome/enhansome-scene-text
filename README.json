@@ -21,7 +21,7 @@
                 "open_issues": 250,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 89780,
+                "stars": 89834,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 531,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30002,
+                "stars": 30005,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -582,7 +582,7 @@
                 "open_issues": 25,
                 "owner": "qcf-568",
                 "repo": "DocTamper",
-                "stars": 218,
+                "stars": 219,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -901,7 +901,7 @@
                 "open_issues": 115,
                 "owner": "clovaai",
                 "repo": "CRAFT-pytorch",
-                "stars": 3401,
+                "stars": 3402,
                 "topics": [
                   "craft",
                   "curved-text",
@@ -2507,7 +2507,7 @@
                 "open_issues": 120,
                 "owner": "tyxsspa",
                 "repo": "AnyText",
-                "stars": 4878,
+                "stars": 4879,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:59:14.553Z",
+    "last_updated": "2026-09-19T17:38:18.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
