@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 252,
+                "open_issues": 250,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 89944,
+                "stars": 90031,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 531,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30016,
+                "stars": 30020,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -93,7 +93,7 @@
                 "open_issues": 194,
                 "owner": "open-mmlab",
                 "repo": "mmocr",
-                "stars": 4752,
+                "stars": 4751,
                 "topics": [
                   "abcnet",
                   "abinet",
@@ -135,7 +135,7 @@
                 "open_issues": 103,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1454,
+                "stars": 1455,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -259,7 +259,7 @@
                     "open_issues": 38,
                     "owner": "ankush-me",
                     "repo": "SynthText",
-                    "stars": 2145,
+                    "stars": 2146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:47:41.228Z"
@@ -694,10 +694,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T18:51:07Z",
-                "open_issues": 1271,
+                "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653,
+                "stars": 77650,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -763,7 +763,7 @@
                 "open_issues": 27,
                 "owner": "GXYM",
                 "repo": "TextBPN-Plus-Plus",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2507,7 +2507,7 @@
                 "open_issues": 120,
                 "owner": "tyxsspa",
                 "repo": "AnyText",
-                "stars": 4880,
+                "stars": 4881,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2542,7 +2542,7 @@
                         "open_issues": 38,
                         "owner": "ankush-me",
                         "repo": "SynthText",
-                        "stars": 2145,
+                        "stars": 2146,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:49:38.215Z",
+    "last_updated": "2026-09-22T18:26:18.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
