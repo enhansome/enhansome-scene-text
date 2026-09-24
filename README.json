@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 251,
+                "open_issues": 252,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 90092,
+                "stars": 90160,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -93,7 +93,7 @@
                 "open_issues": 194,
                 "owner": "open-mmlab",
                 "repo": "mmocr",
-                "stars": 4752,
+                "stars": 4753,
                 "topics": [
                   "abcnet",
                   "abinet",
@@ -135,7 +135,7 @@
                 "open_issues": 103,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1457,
+                "stars": 1459,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -450,6 +450,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Revisiting Tampered Scene Text Detection in the Era of Generative AI [AAAI 2025] [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[AAAI2025] Revisiting Tampered Scene Text Detection in the Era of Generative AI",
+                "homepage": null,
+                "id": 901109518,
+                "language": "Jupyter Notebook",
+                "license": null,
+                "last_commit": "2026-08-16T18:13:10Z",
+                "open_issues": 19,
+                "owner": "qcf-568",
+                "repo": "OSTF",
+                "stars": 75,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:47:41.228Z"
+            },
+            {
+              "node_type": "item",
               "title": "Bridging the Gap Between End-to-End and Two-Step Text Spotting [CVPR 2024] [paper",
               "description": "] [code]",
               "children": [],
@@ -465,27 +486,6 @@
                 "owner": "mxin262",
                 "repo": "Bridging-Text-Spotting",
                 "stars": 75,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:47:41.228Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Revisiting Tampered Scene Text Detection in the Era of Generative AI [AAAI 2025] [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[AAAI2025] Revisiting Tampered Scene Text Detection in the Era of Generative AI",
-                "homepage": null,
-                "id": 901109518,
-                "language": "Jupyter Notebook",
-                "license": null,
-                "last_commit": "2026-08-16T18:13:10Z",
-                "open_issues": 19,
-                "owner": "qcf-568",
-                "repo": "OSTF",
-                "stars": 74,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -697,7 +697,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650,
+                "stars": 77652,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -997,7 +997,7 @@
                 "open_issues": 3,
                 "owner": "Yuliang-Liu",
                 "repo": "TIoU-metric",
-                "stars": 214,
+                "stars": 215,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -1883,7 +1883,7 @@
                     "open_issues": 82,
                     "owner": "bgshih",
                     "repo": "aster",
-                    "stars": 743,
+                    "stars": 742,
                     "topics": [
                       "computer-vision",
                       "ocr",
@@ -2085,7 +2085,7 @@
                     "open_issues": 91,
                     "owner": "bgshih",
                     "repo": "crnn",
-                    "stars": 2103,
+                    "stars": 2101,
                     "topics": [
                       "computer-vision",
                       "machine-learning",
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:45:29.927Z",
+    "last_updated": "2026-09-24T18:46:04.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
