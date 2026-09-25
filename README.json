@@ -21,7 +21,7 @@
                 "open_issues": 252,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 90160,
+                "stars": 90212,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 531,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30024,
+                "stars": 30027,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -135,7 +135,7 @@
                 "open_issues": 103,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1459,
+                "stars": 1461,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -901,7 +901,7 @@
                 "open_issues": 116,
                 "owner": "clovaai",
                 "repo": "CRAFT-pytorch",
-                "stars": 3404,
+                "stars": 3406,
                 "topics": [
                   "craft",
                   "curved-text",
@@ -1169,7 +1169,7 @@
                 "open_issues": 16,
                 "owner": "xhzdeng",
                 "repo": "crpn",
-                "stars": 140,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2112,7 +2112,7 @@
                     "open_issues": 0,
                     "owner": "MaybeShewill-CV",
                     "repo": "CRNN_Tensorflow",
-                    "stars": 1038,
+                    "stars": 1037,
                     "topics": [
                       "chinese-ocr",
                       "crnn-tensorflow",
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:46:04.070Z",
+    "last_updated": "2026-09-25T19:03:44.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
