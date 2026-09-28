@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 252,
+                "open_issues": 253,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 90282,
+                "stars": 90356,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -53,10 +53,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-12-05T12:23:12Z",
-                "open_issues": 531,
+                "open_issues": 532,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30036,
+                "stars": 30037,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -582,7 +582,7 @@
                 "open_issues": 25,
                 "owner": "qcf-568",
                 "repo": "DocTamper",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -697,7 +697,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77654,
+                "stars": 77652,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -1523,7 +1523,7 @@
                 "open_issues": 50,
                 "owner": "baudm",
                 "repo": "parseq",
-                "stars": 739,
+                "stars": 740,
                 "topics": [
                   "computer-vision",
                   "eccv",
@@ -1553,7 +1553,7 @@
                 "open_issues": 50,
                 "owner": "baudm",
                 "repo": "parseq",
-                "stars": 739,
+                "stars": 740,
                 "topics": [
                   "computer-vision",
                   "eccv",
@@ -2112,7 +2112,7 @@
                     "open_issues": 0,
                     "owner": "MaybeShewill-CV",
                     "repo": "CRNN_Tensorflow",
-                    "stars": 1037,
+                    "stars": 1038,
                     "topics": [
                       "chinese-ocr",
                       "crnn-tensorflow",
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:49:17.781Z",
+    "last_updated": "2026-09-28T20:58:29.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
