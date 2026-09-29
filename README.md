@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,955 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,384 | 🐛 106 | 📅 2026-09-02
 
 # Awesome Scene Text with stars
 
@@ -65,10 +65,10 @@ A curated list of papers and resources for scene text detection and recognition.
 
 ### Open Source OCR Systems
 
-* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 90,356 | 🐛 253 | 🌐 Python | 📅 2026-09-16]
-* **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) \[[code](https://github.com/JaidedAI/EasyOCR) ⭐ 30,037 | 🐛 532 | 🌐 Python | 📅 2025-12-05]
+* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 90,417 | 🐛 250 | 🌐 Python | 📅 2026-09-16]
+* **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) \[[code](https://github.com/JaidedAI/EasyOCR) ⭐ 30,042 | 🐛 532 | 🌐 Python | 📅 2025-12-05]
 * **MMOCR** - Comprehensive OCR toolbox with 7 detection and 5 recognition algorithms \[[code](https://github.com/open-mmlab/mmocr) ⭐ 4,753 | 🐛 194 | 🌐 Python | 📅 2024-11-27]
-* **OpenOCR** - Unified benchmark system for training and evaluating scene text models \[[code](https://github.com/Topdu/OpenOCR) ⭐ 1,461 | 🐛 103 | 🌐 Python | 📅 2026-09-21]
+* **OpenOCR** - Unified benchmark system for training and evaluating scene text models \[[code](https://github.com/Topdu/OpenOCR) ⭐ 1,463 | 🐛 104 | 🌐 Python | 📅 2026-09-21]
 
 ### Comparison
 
@@ -186,7 +186,7 @@ For detailed comparisons of these tools, see:
 
 ### 2024
 
-* **Revisiting Tampered Scene Text Detection in the Era of Generative AI** \[AAAI 2025] \[[paper](https://arxiv.org/abs/2407.21422v2)] \[[code](https://github.com/qcf-568/OSTF) ⭐ 75 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-08-16]
+* **Revisiting Tampered Scene Text Detection in the Era of Generative AI** \[AAAI 2025] \[[paper](https://arxiv.org/abs/2407.21422v2)] \[[code](https://github.com/qcf-568/OSTF) ⭐ 76 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-08-16]
 * **Bridging the Gap Between End-to-End and Two-Step Text Spotting** \[CVPR 2024] \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Bridging_the_Gap_Between_End-to-End_and_Two-Step_Text_Spotting_CVPR_2024_paper.pdf)] \[[code](https://github.com/mxin262/Bridging-Text-Spotting) ⭐ 75 | 🐛 9 | 🌐 Python | 📅 2024-06-11]
 * **ODM: A Text-Image Further Alignment Pre-training Approach for Scene Text Detection and Spotting** \[CVPR 2024] \[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Duan_ODM_A_Text-Image_Further_Alignment_Pre-training_Approach_for_Scene_Text_CVPR_2024_paper.pdf)] \[[code](https://github.com/PriNing/ODM) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2025-04-11] \[[code](https://github.com/PriNing/ODM) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2025-04-11]
 * **SwinTextSpotter v2: Towards Better Synergy for Scene Text Spotting** \[IJCV 2025] \[[paper](https://arxiv.org/abs/2401.07641)] \[[code](https://github.com/mxin262/SwinTextSpotterv2) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2025-04-27]
@@ -202,7 +202,7 @@ For detailed comparisons of these tools, see:
 
 ### 2023
 
-* **DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Multilingual Text Spotting** \[CVPR 2023] \[[paper](https://arxiv.org/abs/2305.19957)] \[[code](https://github.com/ViTAE-Transformer/DeepSolo) ⭐ 295 | 🐛 36 | 🌐 Python | 📅 2025-05-30]
+* **DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Multilingual Text Spotting** \[CVPR 2023] \[[paper](https://arxiv.org/abs/2305.19957)] \[[code](https://github.com/ViTAE-Transformer/DeepSolo) ⭐ 296 | 🐛 36 | 🌐 Python | 📅 2025-05-30]
 * **Towards Robust Tampered Text Detection in Document Image: New dataset and New Solution** \[CVPR 2023] \[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_Towards_Robust_Tampered_Text_Detection_in_Document_Image_New_Dataset_CVPR_2023_paper.pdf)] \[[code](https://github.com/qcf-568/DocTamper) ⭐ 220 | 🐛 25 | 🌐 Python | 📅 2026-08-02]
 * **Self-Supervised Implicit Glyph Attention for Text Recognition** \[CVPR 2023] \[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guan_Self-Supervised_Implicit_Glyph_Attention_for_Text_Recognition_CVPR_2023_paper.pdf)] \[[code](https://github.com/TongkunGuan/SIGA) ⭐ 110 | 🐛 3 | 📅 2025-03-09]
 * **ESTextSpotter: Towards Better Scene Text Spotting with Explicit Synergy in Transformer** \[ICCV 2023] \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_ESTextSpotter_Towards_Better_Scene_Text_Spotting_with_Explicit_Synergy_in_ICCV_2023_paper.pdf)] \[[code](https://github.com/mxin262/ESTextSpotter) ⭐ 78 | 🐛 17 | 🌐 Python | 📅 2024-04-09]
@@ -214,7 +214,7 @@ For detailed comparisons of these tools, see:
 
 ### 2022
 
-* **Towards End-to-End Unified Scene Text Detection and Layout Analysis** \[CVPR 2022] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Towards_End-to-End_Unified_Scene_Text_Detection_and_Layout_Analysis_CVPR_2022_paper.pdf)] \[[code](https://github.com/tensorflow/models/tree/master/official/projects/unified_detector) ⭐ 77,652 | 🐛 1,272 | 🌐 Python | 📅 2026-09-23]
+* **Towards End-to-End Unified Scene Text Detection and Layout Analysis** \[CVPR 2022] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Towards_End-to-End_Unified_Scene_Text_Detection_and_Layout_Analysis_CVPR_2022_paper.pdf)] \[[code](https://github.com/tensorflow/models/tree/master/official/projects/unified_detector) ⭐ 77,653 | 🐛 1,272 | 🌐 Python | 📅 2026-09-29]
 * **Real-Time Scene Text Detection with Differentiable Binarization and Adaptive Scale Fusion** \[TPAMI 2022] \[[paper](https://arxiv.org/abs/2202.10304)] \[[code](https://github.com/MhLiao/DB) ⭐ 2,264 | 🐛 203 | 🌐 Python | 📅 2024-03-11]
 * **SwinTextSpotter: Scene Text Spotting via Better Synergy Between Text Detection and Recognition** \[CVPR 2022] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_SwinTextSpotter_Scene_Text_Spotting_via_Better_Synergy_Between_Text_Detection_CVPR_2022_paper.html)] \[[code](https://github.com/mxin262/SwinTextSpotter) ⭐ 287 | 🐛 42 | 🌐 Python | 📅 2024-11-29]
 * **Arbitrary Shape Text Detection via Boundary Transformer** \[Transactions on Multimedia 2023] \[[paper](https://arxiv.org/abs/2205.05320)] \[[code](https://github.com/GXYM/TextBPN-Plus-Plus) ⭐ 206 | 🐛 27 | 🌐 Python | 📅 2025-11-05]
@@ -501,7 +501,7 @@ End-to-end text spotting performs both detection and recognition in a unified fr
 
 ### 2023
 
-* **DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting** \[CVPR 2023] \[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_DeepSolo_Let_Transformer_Decoder_With_Explicit_Points_Solo_for_Text_CVPR_2023_paper.pdf)] \[[code](https://github.com/ViTAE-Transformer/DeepSolo) ⭐ 295 | 🐛 36 | 🌐 Python | 📅 2025-05-30]
+* **DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting** \[CVPR 2023] \[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_DeepSolo_Let_Transformer_Decoder_With_Explicit_Points_Solo_for_Text_CVPR_2023_paper.pdf)] \[[code](https://github.com/ViTAE-Transformer/DeepSolo) ⭐ 296 | 🐛 36 | 🌐 Python | 📅 2025-05-30]
 * **ESTextSpotter: Towards Better Scene Text Spotting with Explicit Synergy in Transformer** \[ICCV 2023] \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_ESTextSpotter_Towards_Better_Scene_Text_Spotting_with_Explicit_Synergy_in_ICCV_2023_paper.pdf)]
 * **TextFormer: A Query-based End-to-End Text Spotter with Mixed Supervision** \[arXiv 2023] \[[paper](https://arxiv.org/abs/2306.03377v2)]
 * **SText-DETR: End-to-End Arbitrary-Shaped Text Detection with Scalable Query in Transformer** \[[paper](https://link.springer.com/chapter/10.1007/978-981-99-8546-3_39)]
@@ -800,4 +800,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

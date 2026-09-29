@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 253,
+                "open_issues": 250,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 90356,
+                "stars": 90417,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 532,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30037,
+                "stars": 30042,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -132,10 +132,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T12:09:01Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1461,
+                "stars": 1463,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -464,7 +464,7 @@
                 "open_issues": 19,
                 "owner": "qcf-568",
                 "repo": "OSTF",
-                "stars": 75,
+                "stars": 76,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -555,7 +555,7 @@
                 "open_issues": 36,
                 "owner": "ViTAE-Transformer",
                 "repo": "DeepSolo",
-                "stars": 295,
+                "stars": 296,
                 "topics": [
                   "chinese-text-spotting",
                   "detection-transformer",
@@ -693,11 +693,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T16:07:15Z",
+                "last_commit": "2026-09-29T00:07:29Z",
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652,
+                "stars": 77653,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2328,7 +2328,7 @@
                 "open_issues": 36,
                 "owner": "ViTAE-Transformer",
                 "repo": "DeepSolo",
-                "stars": 295,
+                "stars": 296,
                 "topics": [
                   "chinese-text-spotting",
                   "detection-transformer",
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:58:29.135Z",
+    "last_updated": "2026-09-29T19:43:33.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
