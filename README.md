@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,361 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,578 | 🐛 106 | 📅 2026-09-02
 
 # Awesome Scene Text with stars
 
@@ -65,8 +65,8 @@ A curated list of papers and resources for scene text detection and recognition.
 
 ### Open Source OCR Systems
 
-* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 90,682 | 🐛 246 | 🌐 Python | 📅 2026-09-16]
-* **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) \[[code](https://github.com/JaidedAI/EasyOCR) ⭐ 30,046 | 🐛 532 | 🌐 Python | 📅 2025-12-05]
+* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 90,700 | 🐛 246 | 🌐 Python | 📅 2026-09-16]
+* **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) \[[code](https://github.com/JaidedAI/EasyOCR) ⭐ 30,048 | 🐛 532 | 🌐 Python | 📅 2025-12-05]
 * **MMOCR** - Comprehensive OCR toolbox with 7 detection and 5 recognition algorithms \[[code](https://github.com/open-mmlab/mmocr) ⭐ 4,751 | 🐛 194 | 🌐 Python | 📅 2024-11-27]
 * **OpenOCR** - Unified benchmark system for training and evaluating scene text models \[[code](https://github.com/Topdu/OpenOCR) ⭐ 1,467 | 🐛 104 | 🌐 Python | 📅 2026-09-21]
 
@@ -117,7 +117,7 @@ For detailed comparisons of these tools, see:
 
 **Curved/Irregular Text:**
 
-* **Total-Text** - 1,555 images, 11,459 text instances, horizontal/multi-oriented/curved \[[paper](https://arxiv.org/abs/1710.10400)] \[[download](https://github.com/cs-chan/Total-Text-Dataset) ⭐ 771 | 🐛 7 | 🌐 MATLAB | 📅 2026-09-30]
+* **Total-Text** - 1,555 images, 11,459 text instances, horizontal/multi-oriented/curved \[[paper](https://arxiv.org/abs/1710.10400)] \[[download](https://github.com/cs-chan/Total-Text-Dataset) ⭐ 772 | 🐛 7 | 🌐 MATLAB | 📅 2026-09-30]
 * **SCUT-CTW1500** - 1,500 images (1,000 train, 500 test), 10,751 text instances, 14-vertex polygon annotations \[[download](https://github.com/Yuliang-Liu/Curve-Text-Detector) ⭐ 653 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2020-07-20]
 * **CUTE80** - 80 high-resolution images, 288 cropped curved text instances \[[download](http://cs-chan.com/downloads_CUTE80_dataset.html)]
 * **LSVT** - 450,000 images (430,000 train, 20,000 test), horizontal/multi-oriented/curved text \[[download](https://rrc.cvc.uab.es/?ch=16)]
@@ -214,7 +214,7 @@ For detailed comparisons of these tools, see:
 
 ### 2022
 
-* **Towards End-to-End Unified Scene Text Detection and Layout Analysis** \[CVPR 2022] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Towards_End-to-End_Unified_Scene_Text_Detection_and_Layout_Analysis_CVPR_2022_paper.pdf)] \[[code](https://github.com/tensorflow/models/tree/master/official/projects/unified_detector) ⭐ 77,657 | 🐛 1,272 | 🌐 Python | 📅 2026-10-01]
+* **Towards End-to-End Unified Scene Text Detection and Layout Analysis** \[CVPR 2022] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Towards_End-to-End_Unified_Scene_Text_Detection_and_Layout_Analysis_CVPR_2022_paper.pdf)] \[[code](https://github.com/tensorflow/models/tree/master/official/projects/unified_detector) ⭐ 77,656 | 🐛 1,272 | 🌐 Python | 📅 2026-10-01]
 * **Real-Time Scene Text Detection with Differentiable Binarization and Adaptive Scale Fusion** \[TPAMI 2022] \[[paper](https://arxiv.org/abs/2202.10304)] \[[code](https://github.com/MhLiao/DB) ⭐ 2,264 | 🐛 203 | 🌐 Python | 📅 2024-03-11]
 * **SwinTextSpotter: Scene Text Spotting via Better Synergy Between Text Detection and Recognition** \[CVPR 2022] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_SwinTextSpotter_Scene_Text_Spotting_via_Better_Synergy_Between_Text_Detection_CVPR_2022_paper.html)] \[[code](https://github.com/mxin262/SwinTextSpotter) ⭐ 286 | 🐛 42 | 🌐 Python | 📅 2024-11-29]
 * **Arbitrary Shape Text Detection via Boundary Transformer** \[Transactions on Multimedia 2023] \[[paper](https://arxiv.org/abs/2205.05320)] \[[code](https://github.com/GXYM/TextBPN-Plus-Plus) ⭐ 206 | 🐛 27 | 🌐 Python | 📅 2025-11-05]
