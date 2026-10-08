@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 244,
+                "open_issues": 246,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 90733,
+                "stars": 90788,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 532,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30054,
+                "stars": 30051,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -93,7 +93,7 @@
                 "open_issues": 194,
                 "owner": "open-mmlab",
                 "repo": "mmocr",
-                "stars": 4751,
+                "stars": 4750,
                 "topics": [
                   "abcnet",
                   "abinet",
@@ -201,7 +201,7 @@
                     "open_issues": 7,
                     "owner": "cs-chan",
                     "repo": "Total-Text-Dataset",
-                    "stars": 772,
+                    "stars": 771,
                     "topics": [
                       "curve-text",
                       "dataset",
@@ -693,11 +693,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T18:19:34Z",
-                "open_issues": 1272,
+                "last_commit": "2026-10-07T22:41:53Z",
+                "open_issues": 1270,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77654,
+                "stars": 77653,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -1322,7 +1322,7 @@
                 "open_issues": 40,
                 "owner": "mjq11302010044",
                 "repo": "RRPN",
-                "stars": 433,
+                "stars": 434,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2464,7 +2464,7 @@
                     "open_issues": 53,
                     "owner": "Bartzi",
                     "repo": "see",
-                    "stars": 578,
+                    "stars": 577,
                     "topics": [
                       "chainer",
                       "cnn",
@@ -2588,7 +2588,7 @@
                     "open_issues": 53,
                     "owner": "Bartzi",
                     "repo": "see",
-                    "stars": 578,
+                    "stars": 577,
                     "topics": [
                       "chainer",
                       "cnn",
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:22:00.218Z",
+    "last_updated": "2026-10-08T20:25:33.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
