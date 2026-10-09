@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 246,
+                "open_issues": 245,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 90788,
+                "stars": 90848,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 532,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30051,
+                "stars": 30058,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -135,7 +135,7 @@
                 "open_issues": 104,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1467,
+                "stars": 1468,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -582,7 +582,7 @@
                 "open_issues": 25,
                 "owner": "qcf-568",
                 "repo": "DocTamper",
-                "stars": 220,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -694,10 +694,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-07T22:41:53Z",
-                "open_issues": 1270,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653,
+                "stars": 77652,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2085,7 +2085,7 @@
                     "open_issues": 91,
                     "owner": "bgshih",
                     "repo": "crnn",
-                    "stars": 2101,
+                    "stars": 2102,
                     "topics": [
                       "computer-vision",
                       "machine-learning",
@@ -2631,7 +2631,7 @@
                 "open_issues": 0,
                 "owner": "ku21fan",
                 "repo": "CLL-STR",
-                "stars": 19,
+                "stars": 18,
                 "topics": [
                   "cross-lingual-learning",
                   "icassp2024",
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:25:33.468Z",
+    "last_updated": "2026-10-09T19:57:12.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
