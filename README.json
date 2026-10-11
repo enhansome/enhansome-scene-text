@@ -21,7 +21,7 @@
                 "open_issues": 244,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 90888,
+                "stars": 90923,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 532,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30063,
+                "stars": 30062,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -135,7 +135,7 @@
                 "open_issues": 104,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1468,
+                "stars": 1467,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -582,7 +582,7 @@
                 "open_issues": 25,
                 "owner": "qcf-568",
                 "repo": "DocTamper",
-                "stars": 222,
+                "stars": 223,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -697,7 +697,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77651,
+                "stars": 77649,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -718,7 +718,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2266,
+                "stars": 2268,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -931,7 +931,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2266,
+                "stars": 2268,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -2507,7 +2507,7 @@
                 "open_issues": 120,
                 "owner": "tyxsspa",
                 "repo": "AnyText",
-                "stars": 4884,
+                "stars": 4883,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:04:39.389Z",
+    "last_updated": "2026-10-11T19:17:03.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
