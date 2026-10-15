@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 245,
+                "open_issues": 246,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 91109,
+                "stars": 91174,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 533,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30065,
+                "stars": 30072,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -135,7 +135,7 @@
                 "open_issues": 104,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1471,
+                "stars": 1472,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -284,10 +284,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2023-11-01T08:52:33Z",
-                    "open_issues": 10,
+                    "open_issues": 9,
                     "owner": "Mountchicken",
                     "repo": "Union14M",
-                    "stars": 204,
+                    "stars": 205,
                     "topics": [
                       "dataset",
                       "mae",
@@ -694,10 +694,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-13T04:11:20Z",
-                "open_issues": 1272,
+                "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77648,
+                "stars": 77646,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -718,7 +718,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2269,
+                "stars": 2267,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -901,7 +901,7 @@
                 "open_issues": 115,
                 "owner": "clovaai",
                 "repo": "CRAFT-pytorch",
-                "stars": 3405,
+                "stars": 3406,
                 "topics": [
                   "craft",
                   "curved-text",
@@ -931,7 +931,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2269,
+                "stars": 2267,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -1485,10 +1485,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-11-01T08:52:33Z",
-                "open_issues": 10,
+                "open_issues": 9,
                 "owner": "Mountchicken",
                 "repo": "Union14M",
-                "stars": 204,
+                "stars": 205,
                 "topics": [
                   "dataset",
                   "mae",
@@ -2021,7 +2021,7 @@
                     "open_issues": 11,
                     "owner": "WarBean",
                     "repo": "tps_stn_pytorch",
-                    "stars": 957,
+                    "stars": 958,
                     "topics": [
                       "pytorch",
                       "spatial-transformer-network",
@@ -2085,7 +2085,7 @@
                     "open_issues": 91,
                     "owner": "bgshih",
                     "repo": "crnn",
-                    "stars": 2102,
+                    "stars": 2103,
                     "topics": [
                       "computer-vision",
                       "machine-learning",
@@ -2507,7 +2507,7 @@
                 "open_issues": 120,
                 "owner": "tyxsspa",
                 "repo": "AnyText",
-                "stars": 4883,
+                "stars": 4884,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:06:13.501Z",
+    "last_updated": "2026-10-15T18:48:33.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
