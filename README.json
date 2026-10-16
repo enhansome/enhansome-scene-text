@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 246,
+                "open_issues": 248,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 91174,
+                "stars": 91239,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 533,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30072,
+                "stars": 30076,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -135,7 +135,7 @@
                 "open_issues": 104,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1472,
+                "stars": 1474,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -464,7 +464,7 @@
                 "open_issues": 19,
                 "owner": "qcf-568",
                 "repo": "OSTF",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -697,7 +697,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77646,
+                "stars": 77644,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -901,7 +901,7 @@
                 "open_issues": 115,
                 "owner": "clovaai",
                 "repo": "CRAFT-pytorch",
-                "stars": 3406,
+                "stars": 3407,
                 "topics": [
                   "craft",
                   "curved-text",
@@ -1523,7 +1523,7 @@
                 "open_issues": 50,
                 "owner": "baudm",
                 "repo": "parseq",
-                "stars": 743,
+                "stars": 744,
                 "topics": [
                   "computer-vision",
                   "eccv",
@@ -1553,7 +1553,7 @@
                 "open_issues": 50,
                 "owner": "baudm",
                 "repo": "parseq",
-                "stars": 743,
+                "stars": 744,
                 "topics": [
                   "computer-vision",
                   "eccv",
@@ -2507,7 +2507,7 @@
                 "open_issues": 120,
                 "owner": "tyxsspa",
                 "repo": "AnyText",
-                "stars": 4884,
+                "stars": 4885,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:48:33.128Z",
+    "last_updated": "2026-10-16T18:33:06.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
