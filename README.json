@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 248,
+                "open_issues": 250,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 91277,
+                "stars": 91315,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 533,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30080,
+                "stars": 30084,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -485,7 +485,7 @@
                 "open_issues": 9,
                 "owner": "mxin262",
                 "repo": "Bridging-Text-Spotting",
-                "stars": 75,
+                "stars": 76,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -697,7 +697,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77646,
+                "stars": 77645,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -718,7 +718,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2267,
+                "stars": 2268,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -931,7 +931,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2267,
+                "stars": 2268,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -2060,7 +2060,7 @@
                     "open_issues": 103,
                     "owner": "meijieru",
                     "repo": "crnn.pytorch",
-                    "stars": 2496,
+                    "stars": 2495,
                     "topics": [
                       "neural-network",
                       "recognition",
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:40:54.399Z",
+    "last_updated": "2026-10-18T17:42:24.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
