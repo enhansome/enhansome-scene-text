@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 250,
+                "open_issues": 251,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 91430,
+                "stars": 91481,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -93,7 +93,7 @@
                 "open_issues": 194,
                 "owner": "open-mmlab",
                 "repo": "mmocr",
-                "stars": 4750,
+                "stars": 4751,
                 "topics": [
                   "abcnet",
                   "abinet",
@@ -135,7 +135,7 @@
                 "open_issues": 106,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1477,
+                "stars": 1478,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -693,7 +693,7 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T17:11:38Z",
+                "last_commit": "2026-10-21T16:25:32Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
@@ -2085,7 +2085,7 @@
                     "open_issues": 91,
                     "owner": "bgshih",
                     "repo": "crnn",
-                    "stars": 2103,
+                    "stars": 2105,
                     "topics": [
                       "computer-vision",
                       "machine-learning",
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:51:05.578Z",
+    "last_updated": "2026-10-21T19:03:23.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
