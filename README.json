@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 258,
+                "open_issues": 264,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 91655,
+                "stars": 91709,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 534,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30101,
+                "stars": 30105,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -135,7 +135,7 @@
                 "open_issues": 106,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1480,
+                "stars": 1481,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -693,7 +693,7 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T03:36:49Z",
+                "last_commit": "2026-10-26T17:40:40Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
@@ -718,7 +718,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2267,
+                "stars": 2268,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -931,7 +931,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2267,
+                "stars": 2268,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -1293,7 +1293,7 @@
                 "open_issues": 25,
                 "owner": "DetectionTeamUCAS",
                 "repo": "R2CNN_Faster-RCNN_Tensorflow",
-                "stars": 582,
+                "stars": 583,
                 "topics": [
                   "dota",
                   "face",
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:00:28.950Z",
+    "last_updated": "2026-10-26T20:14:40.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
