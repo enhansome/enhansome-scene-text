@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 264,
+                "open_issues": 262,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 91709,
+                "stars": 91793,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 534,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30105,
+                "stars": 30111,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -135,7 +135,7 @@
                 "open_issues": 106,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1481,
+                "stars": 1483,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -582,7 +582,7 @@
                 "open_issues": 25,
                 "owner": "qcf-568",
                 "repo": "DocTamper",
-                "stars": 223,
+                "stars": 224,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -693,11 +693,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T17:40:40Z",
+                "last_commit": "2026-10-27T18:26:26Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650,
+                "stars": 77645,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -901,7 +901,7 @@
                 "open_issues": 115,
                 "owner": "clovaai",
                 "repo": "CRAFT-pytorch",
-                "stars": 3409,
+                "stars": 3410,
                 "topics": [
                   "craft",
                   "curved-text",
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:14:40.770Z",
+    "last_updated": "2026-10-27T19:46:11.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
