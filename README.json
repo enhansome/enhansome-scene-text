@@ -21,7 +21,7 @@
                 "open_issues": 264,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 92073,
+                "stars": 92148,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 534,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30124,
+                "stars": 30123,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -132,10 +132,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T12:09:01Z",
-                "open_issues": 106,
+                "open_issues": 107,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1490,
+                "stars": 1493,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -287,7 +287,7 @@
                     "open_issues": 9,
                     "owner": "Mountchicken",
                     "repo": "Union14M",
-                    "stars": 206,
+                    "stars": 207,
                     "topics": [
                       "dataset",
                       "mae",
@@ -718,7 +718,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2268,
+                "stars": 2269,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -931,7 +931,7 @@
                 "open_issues": 203,
                 "owner": "MhLiao",
                 "repo": "DB",
-                "stars": 2268,
+                "stars": 2269,
                 "topics": [
                   "dbnet",
                   "scene-text-detection"
@@ -1488,7 +1488,7 @@
                 "open_issues": 9,
                 "owner": "Mountchicken",
                 "repo": "Union14M",
-                "stars": 206,
+                "stars": 207,
                 "topics": [
                   "dataset",
                   "mae",
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:17:37.694Z",
+    "last_updated": "2026-11-02T22:57:22.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
