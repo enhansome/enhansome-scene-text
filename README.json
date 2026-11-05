@@ -21,7 +21,7 @@
                 "open_issues": 261,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 92257,
+                "stars": 92315,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 534,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30125,
+                "stars": 30128,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -135,7 +135,7 @@
                 "open_issues": 107,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1492,
+                "stars": 1494,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -697,7 +697,7 @@
                 "open_issues": 1276,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77633,
+                "stars": 77635,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -763,7 +763,7 @@
                 "open_issues": 27,
                 "owner": "GXYM",
                 "repo": "TextBPN-Plus-Plus",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -1520,7 +1520,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-05-29T02:02:27Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "baudm",
                 "repo": "parseq",
                 "stars": 747,
@@ -1550,7 +1550,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-05-29T02:02:27Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "baudm",
                 "repo": "parseq",
                 "stars": 747,
@@ -2021,7 +2021,7 @@
                     "open_issues": 11,
                     "owner": "WarBean",
                     "repo": "tps_stn_pytorch",
-                    "stars": 958,
+                    "stars": 956,
                     "topics": [
                       "pytorch",
                       "spatial-transformer-network",
@@ -2060,7 +2060,7 @@
                     "open_issues": 103,
                     "owner": "meijieru",
                     "repo": "crnn.pytorch",
-                    "stars": 2494,
+                    "stars": 2493,
                     "topics": [
                       "neural-network",
                       "recognition",
@@ -2085,7 +2085,7 @@
                     "open_issues": 91,
                     "owner": "bgshih",
                     "repo": "crnn",
-                    "stars": 2105,
+                    "stars": 2104,
                     "topics": [
                       "computer-vision",
                       "machine-learning",
@@ -2631,7 +2631,7 @@
                 "open_issues": 0,
                 "owner": "ku21fan",
                 "repo": "CLL-STR",
-                "stars": 18,
+                "stars": 19,
                 "topics": [
                   "cross-lingual-learning",
                   "icassp2024",
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:00:02.646Z",
+    "last_updated": "2026-11-05T21:17:17.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
