@@ -21,7 +21,7 @@
                 "open_issues": 261,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 92315,
+                "stars": 92372,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 534,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30128,
+                "stars": 30127,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -135,7 +135,7 @@
                 "open_issues": 107,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1494,
+                "stars": 1495,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -697,7 +697,7 @@
                 "open_issues": 1276,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77635,
+                "stars": 77634,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 56,
                 "owner": "MhLiao",
                 "repo": "TextBoxes_plusplus",
-                "stars": 954,
+                "stars": 953,
                 "topics": [
                   "ocr",
                   "scene-text",
@@ -1293,7 +1293,7 @@
                 "open_issues": 25,
                 "owner": "DetectionTeamUCAS",
                 "repo": "R2CNN_Faster-RCNN_Tensorflow",
-                "stars": 583,
+                "stars": 582,
                 "topics": [
                   "dota",
                   "face",
@@ -2507,7 +2507,7 @@
                 "open_issues": 120,
                 "owner": "tyxsspa",
                 "repo": "AnyText",
-                "stars": 4885,
+                "stars": 4886,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:17:17.618Z",
+    "last_updated": "2026-11-06T20:39:36.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
