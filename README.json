@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 259,
+                "open_issues": 260,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 92403,
+                "stars": 92435,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -56,7 +56,7 @@
                 "open_issues": 535,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30130,
+                "stars": 30132,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -697,7 +697,7 @@
                 "open_issues": 1276,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77633,
+                "stars": 77635,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -1392,7 +1392,7 @@
                 "open_issues": 290,
                 "owner": "eragonruan",
                 "repo": "text-detection-ctpn",
-                "stars": 3429,
+                "stars": 3428,
                 "topics": [
                   "ctpn",
                   "id-card",
@@ -2507,7 +2507,7 @@
                 "open_issues": 120,
                 "owner": "tyxsspa",
                 "repo": "AnyText",
-                "stars": 4886,
+                "stars": 4888,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:13:11.998Z",
+    "last_updated": "2026-11-08T19:15:29.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
