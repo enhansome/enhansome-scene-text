@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 265,
+                "open_issues": 267,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 92701,
+                "stars": 92718,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -135,7 +135,7 @@
                 "open_issues": 107,
                 "owner": "Topdu",
                 "repo": "OpenOCR",
-                "stars": 1498,
+                "stars": 1497,
                 "topics": [
                   "chineseocr",
                   "document-analysis",
@@ -582,7 +582,7 @@
                 "open_issues": 25,
                 "owner": "qcf-568",
                 "repo": "DocTamper",
-                "stars": 225,
+                "stars": 226,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -697,7 +697,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77631,
+                "stars": 77629,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -898,10 +898,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-07-16T04:32:12Z",
-                "open_issues": 115,
+                "open_issues": 116,
                 "owner": "clovaai",
                 "repo": "CRAFT-pytorch",
-                "stars": 3410,
+                "stars": 3409,
                 "topics": [
                   "craft",
                   "curved-text",
@@ -2195,7 +2195,7 @@
                     "open_issues": 10,
                     "owner": "janzd",
                     "repo": "CRNN",
-                    "stars": 125,
+                    "stars": 124,
                     "topics": [
                       "keras",
                       "ocr",
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:38:15.435Z",
+    "last_updated": "2026-11-15T20:03:32.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
