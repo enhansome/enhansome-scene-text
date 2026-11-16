@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T03:31:50Z",
-                "open_issues": 267,
+                "open_issues": 265,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleOCR",
-                "stars": 92718,
+                "stars": 92774,
                 "topics": [
                   "ai4science",
                   "chineseocr",
@@ -53,10 +53,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-13T00:06:56Z",
-                "open_issues": 533,
+                "open_issues": 534,
                 "owner": "JaidedAI",
                 "repo": "EasyOCR",
-                "stars": 30141,
+                "stars": 30144,
                 "topics": [
                   "cnn",
                   "crnn",
@@ -201,7 +201,7 @@
                     "open_issues": 7,
                     "owner": "cs-chan",
                     "repo": "Total-Text-Dataset",
-                    "stars": 770,
+                    "stars": 769,
                     "topics": [
                       "curve-text",
                       "dataset",
@@ -693,11 +693,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T23:22:42Z",
+                "last_commit": "2026-11-16T22:46:00Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77629,
+                "stars": 77628,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -1611,7 +1611,7 @@
                 "open_issues": 27,
                 "owner": "roatienza",
                 "repo": "deep-text-recognition-benchmark",
-                "stars": 312,
+                "stars": 313,
                 "topics": [
                   "ocr",
                   "str",
@@ -1637,7 +1637,7 @@
                 "open_issues": 27,
                 "owner": "roatienza",
                 "repo": "deep-text-recognition-benchmark",
-                "stars": 312,
+                "stars": 313,
                 "topics": [
                   "ocr",
                   "str",
@@ -1923,7 +1923,7 @@
                     "open_issues": 17,
                     "owner": "Bartzi",
                     "repo": "stn-ocr",
-                    "stars": 504,
+                    "stars": 505,
                     "topics": [
                       "convolutional-neural-networks",
                       "deep-learning",
@@ -2464,7 +2464,7 @@
                     "open_issues": 53,
                     "owner": "Bartzi",
                     "repo": "see",
-                    "stars": 577,
+                    "stars": 578,
                     "topics": [
                       "chainer",
                       "cnn",
@@ -2507,7 +2507,7 @@
                 "open_issues": 120,
                 "owner": "tyxsspa",
                 "repo": "AnyText",
-                "stars": 4888,
+                "stars": 4889,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:47:41.228Z"
@@ -2588,7 +2588,7 @@
                     "open_issues": 53,
                     "owner": "Bartzi",
                     "repo": "see",
-                    "stars": 577,
+                    "stars": 578,
                     "topics": [
                       "chainer",
                       "cnn",
@@ -2654,7 +2654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T20:03:32.460Z",
+    "last_updated": "2026-11-16T23:36:21.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and resources for scene text detection and recognition",
