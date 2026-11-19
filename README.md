@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,998 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,506 | 🐛 103 | 📅 2026-09-02
 
 # Awesome Scene Text with stars
 
@@ -65,10 +65,10 @@ A curated list of papers and resources for scene text detection and recognition.
 
 ### Open Source OCR Systems
 
-* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 92,868 | 🐛 269 | 🌐 Python | 📅 2026-09-16]
-* **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) \[[code](https://github.com/JaidedAI/EasyOCR) ⭐ 30,154 | 🐛 535 | 🌐 Python | 📅 2026-11-13]
-* **MMOCR** - Comprehensive OCR toolbox with 7 detection and 5 recognition algorithms \[[code](https://github.com/open-mmlab/mmocr) ⭐ 4,745 | 🐛 194 | 🌐 Python | 📅 2024-11-27]
-* **OpenOCR** - Unified benchmark system for training and evaluating scene text models \[[code](https://github.com/Topdu/OpenOCR) ⭐ 1,500 | 🐛 107 | 🌐 Python | 📅 2026-09-21]
+* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 92,911 | 🐛 270 | 🌐 Python | 📅 2026-09-16]
+* **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) \[[code](https://github.com/JaidedAI/EasyOCR) ⭐ 30,156 | 🐛 535 | 🌐 Python | 📅 2026-11-13]
+* **MMOCR** - Comprehensive OCR toolbox with 7 detection and 5 recognition algorithms \[[code](https://github.com/open-mmlab/mmocr) ⭐ 4,743 | 🐛 194 | 🌐 Python | 📅 2024-11-27]
+* **OpenOCR** - Unified benchmark system for training and evaluating scene text models \[[code](https://github.com/Topdu/OpenOCR) ⭐ 1,499 | 🐛 107 | 🌐 Python | 📅 2026-09-21]
 
 ### Comparison
 
@@ -117,8 +117,8 @@ For detailed comparisons of these tools, see:
 
 **Curved/Irregular Text:**
 
-* **Total-Text** - 1,555 images, 11,459 text instances, horizontal/multi-oriented/curved \[[paper](https://arxiv.org/abs/1710.10400)] \[[download](https://github.com/cs-chan/Total-Text-Dataset) ⭐ 769 | 🐛 7 | 🌐 MATLAB | 📅 2026-09-30]
-* **SCUT-CTW1500** - 1,500 images (1,000 train, 500 test), 10,751 text instances, 14-vertex polygon annotations \[[download](https://github.com/Yuliang-Liu/Curve-Text-Detector) ⭐ 652 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2020-07-20]
+* **Total-Text** - 1,555 images, 11,459 text instances, horizontal/multi-oriented/curved \[[paper](https://arxiv.org/abs/1710.10400)] \[[download](https://github.com/cs-chan/Total-Text-Dataset) ⭐ 768 | 🐛 7 | 🌐 MATLAB | 📅 2026-09-30]
+* **SCUT-CTW1500** - 1,500 images (1,000 train, 500 test), 10,751 text instances, 14-vertex polygon annotations \[[download](https://github.com/Yuliang-Liu/Curve-Text-Detector) ⭐ 651 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2020-07-20]
 * **CUTE80** - 80 high-resolution images, 288 cropped curved text instances \[[download](http://cs-chan.com/downloads_CUTE80_dataset.html)]
 * **LSVT** - 450,000 images (430,000 train, 20,000 test), horizontal/multi-oriented/curved text \[[download](https://rrc.cvc.uab.es/?ch=16)]
 
@@ -128,7 +128,7 @@ For detailed comparisons of these tools, see:
 
 **Synthetic Datasets:**
 
-* **SynthText** - 800,000 images, 6 million text instances \[[code](https://github.com/ankush-me/SynthText) ⭐ 2,145 | 🐛 38 | 🌐 Python | 📅 2023-08-09]
+* **SynthText** - 800,000 images, 6 million text instances \[[code](https://github.com/ankush-me/SynthText) ⭐ 2,143 | 🐛 38 | 🌐 Python | 📅 2023-08-09]
 * **Synth80k** - 800,000 images, \~8 million synthetic word instances \[[download](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)]
 
 #### Large-Scale Modern Datasets
@@ -215,7 +215,7 @@ For detailed comparisons of these tools, see:
 ### 2022
 
 * **Towards End-to-End Unified Scene Text Detection and Layout Analysis** \[CVPR 2022] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Towards_End-to-End_Unified_Scene_Text_Detection_and_Layout_Analysis_CVPR_2022_paper.pdf)] \[[code](https://github.com/tensorflow/models/tree/master/official/projects/unified_detector) ⭐ 77,629 | 🐛 1,274 | 🌐 Python | 📅 2026-11-16]
-* **Real-Time Scene Text Detection with Differentiable Binarization and Adaptive Scale Fusion** \[TPAMI 2022] \[[paper](https://arxiv.org/abs/2202.10304)] \[[code](https://github.com/MhLiao/DB) ⭐ 2,270 | 🐛 203 | 🌐 Python | 📅 2024-03-11]
+* **Real-Time Scene Text Detection with Differentiable Binarization and Adaptive Scale Fusion** \[TPAMI 2022] \[[paper](https://arxiv.org/abs/2202.10304)] \[[code](https://github.com/MhLiao/DB) ⭐ 2,269 | 🐛 203 | 🌐 Python | 📅 2024-03-11]
 * **SwinTextSpotter: Scene Text Spotting via Better Synergy Between Text Detection and Recognition** \[CVPR 2022] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_SwinTextSpotter_Scene_Text_Spotting_via_Better_Synergy_Between_Text_Detection_CVPR_2022_paper.html)] \[[code](https://github.com/mxin262/SwinTextSpotter) ⭐ 288 | 🐛 42 | 🌐 Python | 📅 2024-11-29]
 * **Arbitrary Shape Text Detection via Boundary Transformer** \[Transactions on Multimedia 2023] \[[paper](https://arxiv.org/abs/2205.05320)] \[[code](https://github.com/GXYM/TextBPN-Plus-Plus) ⭐ 207 | 🐛 27 | 🌐 Python | 📅 2025-11-05]
 * **GLASS: Global to Local Attention for Scene-Text Spotting** \[ECCV 2022] \[[paper](https://arxiv.org/abs/2208.03364)] \[[code](https://github.com/amazon-science/glass-text-spotting) ⭐ 102 | 🐛 15 | 🌐 Python | 📅 2024-06-28]
@@ -244,8 +244,8 @@ For detailed comparisons of these tools, see:
 
 ### 2019
 
-* **Character Region Awareness for Text Detection** \[CVPR 2019] \[[paper](https://arxiv.org/abs/1904.01941)] \[[code](https://github.com/clovaai/CRAFT-pytorch) ⭐ 3,408 | 🐛 116 | 🌐 Python | 📅 2024-07-16]
-* **DBNet: Real-time Scene Text Detection with Differentiable Binarization** \[AAAI 2020] \[[paper](https://arxiv.org/abs/1911.08947)] \[[code](https://github.com/MhLiao/DB) ⭐ 2,270 | 🐛 203 | 🌐 Python | 📅 2024-03-11]
+* **Character Region Awareness for Text Detection** \[CVPR 2019] \[[paper](https://arxiv.org/abs/1904.01941)] \[[code](https://github.com/clovaai/CRAFT-pytorch) ⭐ 3,407 | 🐛 116 | 🌐 Python | 📅 2024-07-16]
+* **DBNet: Real-time Scene Text Detection with Differentiable Binarization** \[AAAI 2020] \[[paper](https://arxiv.org/abs/1911.08947)] \[[code](https://github.com/MhLiao/DB) ⭐ 2,269 | 🐛 203 | 🌐 Python | 📅 2024-03-11]
 * **Convolutional Character Networks** \[ICCV 2019] \[[paper](https://arxiv.org/abs/1910.07954)] \[[code](https://github.com/msight-tech/research-charnet) ⭐ 616 | 🐛 40 | 🌐 Python | 📅 2023-01-26]
 * **Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network** \[ICCV 2019] \[[paper](https://arxiv.org/abs/1908.05900)] \[[code](https://github.com/WenmuZhou/PAN.pytorch) ⭐ 419 | 🐛 20 | 🌐 C++ | 📅 2021-06-04]
 * **Tightness-aware Evaluation Protocol for Scene Text Detection** \[CVPR 2019] \[[paper](https://arxiv.org/abs/1904.00813)] \[[code](https://github.com/Yuliang-Liu/TIoU-metric) ⭐ 215 | 🐛 3 | 🌐 Python | 📅 2019-10-25]
@@ -288,7 +288,7 @@ For detailed comparisons of these tools, see:
 
 ### 2017
 
-* **EAST: An Efficient and Accurate Scene Text Detector** \[CVPR 2017] \[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf)] \[[code - TF](https://github.com/argman/EAST) ⭐ 3,054 | 🐛 264 | 🌐 C++ | 📅 2022-11-22] \[[code - Keras](https://github.com/janzd/EAST) ⭐ 214 | 🐛 21 | 🌐 Python | 📅 2022-11-22]
+* **EAST: An Efficient and Accurate Scene Text Detector** \[CVPR 2017] \[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf)] \[[code - TF](https://github.com/argman/EAST) ⭐ 3,053 | 🐛 264 | 🌐 C++ | 📅 2022-11-22] \[[code - Keras](https://github.com/janzd/EAST) ⭐ 214 | 🐛 21 | 🌐 Python | 📅 2022-11-22]
 * **R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection** \[arXiv 2017] \[[paper](https://arxiv.org/abs/1706.09579)] \[[code](https://github.com/DetectionTeamUCAS/R2CNN_Faster-RCNN_Tensorflow) ⭐ 582 | 🐛 25 | 🌐 Python | 📅 2020-11-20]
 * **Arbitrary-Oriented Scene Text Detection via Rotation Proposals** \[TMM 2018] \[[paper](https://arxiv.org/abs/1703.01086)] \[[code](https://github.com/mjq11302010044/RRPN) ⭐ 434 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2020-10-16]
 * **Detecting Oriented Text in Natural Images by Linking Segments** \[CVPR 2017] \[[paper](https://arxiv.org/abs/1703.06520)] \[[code](https://github.com/bgshih/seglink) ⭐ 243 | 🐛 10 | 🌐 Python | 📅 2017-12-30]
@@ -308,7 +308,7 @@ For detailed comparisons of these tools, see:
 
 ### 2016
 
-* **Detecting Text in Natural Image with Connectionist Text Proposal Network** \[ECCV 2016] \[[paper](https://arxiv.org/abs/1609.03605)] \[[code](https://github.com/eragonruan/text-detection-ctpn) ⭐ 3,428 | 🐛 290 | 🌐 Python | 📅 2023-10-03]
+* **Detecting Text in Natural Image with Connectionist Text Proposal Network** \[ECCV 2016] \[[paper](https://arxiv.org/abs/1609.03605)] \[[code](https://github.com/eragonruan/text-detection-ctpn) ⭐ 3,427 | 🐛 290 | 🌐 Python | 📅 2023-10-03]
 * **TextBoxes: A Fast Text Detector with a Single Deep Neural Network** \[AAAI 2017] \[[paper](https://arxiv.org/abs/1611.06779)] \[[code](https://github.com/MhLiao/TextBoxes) ⭐ 632 | 🐛 45 | 🌐 C++ | 📅 2018-12-07]
 * **Accurate Text Localization in Natural Image with Cascaded Convolutional Text Network** \[arXiv 2016] \[[paper](https://arxiv.org/abs/1603.09423)]
 * **Multi-Oriented Text Detection With Fully Convolutional Networks** \[CVPR 2016] \[[paper](https://arxiv.org/abs/1604.04018)]
@@ -390,8 +390,8 @@ For detailed comparisons of these tools, see:
 ### 2021
 
 * **Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition** \[CVPR 2021] \[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_Read_Like_Humans_Autonomous_Bidirectional_and_Iterative_Language_Modeling_for_CVPR_2021_paper.pdf)] \[[code](https://github.com/FangShancheng/ABINet) ⭐ 462 | 🐛 81 | 🌐 Jupyter Notebook | 📅 2022-10-14]
-* **ViTSTR: Vision Transformer for Fast and Efficient Scene Text Recognition** \[ICDAR 2021] \[[paper](https://arxiv.org/abs/2105.08582)] \[[code](https://github.com/roatienza/deep-text-recognition-benchmark) ⭐ 313 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-09]
-* **ViTSTR: Vision Transformer for Fast and Efficient Scene Text Recognition** \[ICDAR 2021] \[[paper](https://arxiv.org/abs/2105.08582)] \[[code](https://github.com/roatienza/deep-text-recognition-benchmark) ⭐ 313 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-09]
+* **ViTSTR: Vision Transformer for Fast and Efficient Scene Text Recognition** \[ICDAR 2021] \[[paper](https://arxiv.org/abs/2105.08582)] \[[code](https://github.com/roatienza/deep-text-recognition-benchmark) ⭐ 312 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-09]
+* **ViTSTR: Vision Transformer for Fast and Efficient Scene Text Recognition** \[ICDAR 2021] \[[paper](https://arxiv.org/abs/2105.08582)] \[[code](https://github.com/roatienza/deep-text-recognition-benchmark) ⭐ 312 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-09]
 * **What if We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition with Fewer Labels** \[CVPR 2021] \[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_What_if_We_Only_Use_Real_Datasets_for_Scene_Text_CVPR_2021_paper.pdf)] \[[code](https://github.com/ku21fan/STR-Fewer-Labels) ⭐ 186 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-12-23]
 * **Dictionary-Guided Scene Text Recognition** \[CVPR 2021] \[[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Nguyen_Dictionary-Guided_Scene_Text_Recognition_CVPR_2021_paper.html)] \[[code](https://github.com/VinAIResearch/dict-guided) ⭐ 154 | 🐛 12 | 🌐 Python | 📅 2024-07-23]
 * **Primitive Representation Learning for Scene Text Recognition** \[CVPR 2021] \[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Primitive_Representation_Learning_for_Scene_Text_Recognition_CVPR_2021_paper.pdf)] \[[code](https://github.com/RuijieJ/pren) ⭐ 82 | 🐛 12 | 🌐 Python | 📅 2022-05-11]
@@ -441,7 +441,7 @@ For detailed comparisons of these tools, see:
 ### 2017
 
 * **STN-OCR: A single Neural Network for Text Detection and Text Recognition** \[arXiv] \[[paper](https://arxiv.org/pdf/1707.08831.pdf)]
-  * <https://github.com/Bartzi/stn-ocr> ⭐ 505 | 🐛 17 | 🌐 Python | 📅 2018-01-02 \[MXNet]
+  * <https://github.com/Bartzi/stn-ocr> ⭐ 504 | 🐛 17 | 🌐 Python | 📅 2018-01-02 \[MXNet]
 * **Learning to Read Irregular Text with Attention Mechanisms** \[IJCAI 2017] \[[paper](https://www.ijcai.org/proceedings/2017/458)]
 * **Scene Text Recognition with Sliding Convolutional Character Models** \[arXiv] \[[paper](https://arxiv.org/abs/1709.01727)]
 * **Focusing Attention: Towards Accurate Text Recognition in Natural Images** \[ICCV 2017] \[[paper](https://arxiv.org/abs/1709.02054)]
@@ -463,9 +463,9 @@ For detailed comparisons of these tools, see:
 
 * **Reading Scene Text in Deep Convolutional Sequences** \[AAAI 2016] \[[paper](https://arxiv.org/abs/1506.04395)]
 * **An end-to-end trainable neural network for image-based sequence recognition and its application to scene text recognition** \[TPAMI 2017] \[[paper](https://arxiv.org/abs/1507.05717)]
-  * <https://github.com/meijieru/crnn.pytorch> ⭐ 2,493 | 🐛 103 | 🌐 Python | 📅 2024-09-19 \[PyTorch]
-  * <https://github.com/bgshih/crnn> ⭐ 2,103 | 🐛 91 | 🌐 Lua | 📅 2019-03-04 \[Torch]
-  * <https://github.com/MaybeShewill-CV/CRNN_Tensorflow> ⭐ 1,038 | 🐛 0 | 🌐 Python | 📅 2023-05-09 \[TF]
+  * <https://github.com/meijieru/crnn.pytorch> ⭐ 2,492 | 🐛 103 | 🌐 Python | 📅 2024-09-19 \[PyTorch]
+  * <https://github.com/bgshih/crnn> ⭐ 2,102 | 🐛 91 | 🌐 Lua | 📅 2019-03-04 \[Torch]
+  * <https://github.com/MaybeShewill-CV/CRNN_Tensorflow> ⭐ 1,037 | 🐛 0 | 🌐 Python | 📅 2023-05-09 \[TF]
   * <https://github.com/weinman/cnn_lstm_ctc_ocr> ⭐ 502 | 🐛 3 | 🌐 Python | 📅 2021-10-16 \[TF]
   * <https://github.com/watsonyanghx/CNN_LSTM_CTC_Tensorflow> ⭐ 368 | 🐛 26 | 🌐 Python | 📅 2018-04-24 \[TF]
   * <https://github.com/kurapan/CRNN> ⭐ 124 | 🐛 10 | 🌐 Python | 📅 2021-04-13 \[Keras]
@@ -532,7 +532,7 @@ End-to-end text spotting performs both detection and recognition in a unified fr
 
 * **Deep TextSpotter: An End-To-End Trainable Scene Text Localization and Recognition Framework** \[ICCV 2017] \[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busta_Deep_TextSpotter_An_ICCV_2017_paper.pdf)]
 * **SEE: Towards Semi-Supervised End-to-End Scene Text Recognition** \[AAAI 2018] \[[paper](https://arxiv.org/abs/1712.05404)]
-  * <https://github.com/Bartzi/see> ⭐ 578 | 🐛 53 | 🌐 Python | 📅 2019-04-26 \[Chainer]
+  * <https://github.com/Bartzi/see> ⭐ 577 | 🐛 53 | 🌐 Python | 📅 2019-04-26 \[Chainer]
 
 ***
 
@@ -579,7 +579,7 @@ Diffusion models for rendering text in images with high quality and controllabil
 
 ### 2023
 
-* **AnyText: Multilingual Visual Text Generation And Editing** \[ICLR 2024 Spotlight] \[[paper](https://arxiv.org/abs/2311.03054)] \[[code](https://github.com/tyxsspa/AnyText) ⭐ 4,887 | 🐛 120 | 🌐 Python | 📅 2025-03-07]
+* **AnyText: Multilingual Visual Text Generation And Editing** \[ICLR 2024 Spotlight] \[[paper](https://arxiv.org/abs/2311.03054)] \[[code](https://github.com/tyxsspa/AnyText) ⭐ 4,889 | 🐛 120 | 🌐 Python | 📅 2025-03-07]
 * **TextDiffuser: Diffusion Models as Text Painters** \[arXiv 2023] \[[paper](https://arxiv.org/abs/2305.10855)] \[[project](https://jingyechen.github.io/textdiffuser/)]
 
 ### Related Text Synthesis Papers
@@ -600,7 +600,7 @@ Diffusion models for rendering text in images with high quality and controllabil
 #### 2016
 
 * **Synthetic Data for Text Localisation in Natural Images** \[CVPR 2016] \[[paper](https://arxiv.org/abs/1604.06646)]
-  * <https://github.com/ankush-me/SynthText> ⭐ 2,145 | 🐛 38 | 🌐 Python | 📅 2023-08-09
+  * <https://github.com/ankush-me/SynthText> ⭐ 2,143 | 🐛 38 | 🌐 Python | 📅 2023-08-09
 
 ***
 
@@ -647,7 +647,7 @@ Diffusion models for rendering text in images with high quality and controllabil
 * **Attention-Based Extraction of Structured Information from Street View Imagery** \[ICDAR 2017] \[[paper](https://arxiv.org/abs/1704.03549)]
 * **WeText: Scene Text Detection under Weak Supervision** \[ICCV 2017] \[[paper](https://arxiv.org/abs/1710.04826)]
 * **SEE: Towards Semi-Supervised End-to-End Scene Text Recognition** \[AAAI 2018] \[[paper](https://arxiv.org/abs/1712.05404)]
-  * <https://github.com/Bartzi/see> ⭐ 578 | 🐛 53 | 🌐 Python | 📅 2019-04-26 \[Chainer]
+  * <https://github.com/Bartzi/see> ⭐ 577 | 🐛 53 | 🌐 Python | 📅 2019-04-26 \[Chainer]
 
 ***
 
@@ -800,4 +800,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
