@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,993 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,479 | 🐛 103 | 📅 2026-09-02
 
 # Awesome Scene Text with stars
 
@@ -65,8 +65,8 @@ A curated list of papers and resources for scene text detection and recognition.
 
 ### Open Source OCR Systems
 
-* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 92,951 | 🐛 273 | 🌐 Python | 📅 2026-09-16]
-* **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) \[[code](https://github.com/JaidedAI/EasyOCR) ⭐ 30,159 | 🐛 535 | 🌐 Python | 📅 2026-11-13]
+* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 92,983 | 🐛 275 | 🌐 Python | 📅 2026-09-16]
+* **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) \[[code](https://github.com/JaidedAI/EasyOCR) ⭐ 30,158 | 🐛 540 | 🌐 Python | 📅 2026-11-13]
 * **MMOCR** - Comprehensive OCR toolbox with 7 detection and 5 recognition algorithms \[[code](https://github.com/open-mmlab/mmocr) ⭐ 4,743 | 🐛 194 | 🌐 Python | 📅 2024-11-27]
 * **OpenOCR** - Unified benchmark system for training and evaluating scene text models \[[code](https://github.com/Topdu/OpenOCR) ⭐ 1,498 | 🐛 107 | 🌐 Python | 📅 2026-09-21]
 
@@ -214,7 +214,7 @@ For detailed comparisons of these tools, see:
 
 ### 2022
 
-* **Towards End-to-End Unified Scene Text Detection and Layout Analysis** \[CVPR 2022] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Towards_End-to-End_Unified_Scene_Text_Detection_and_Layout_Analysis_CVPR_2022_paper.pdf)] \[[code](https://github.com/tensorflow/models/tree/master/official/projects/unified_detector) ⭐ 77,630 | 🐛 1,274 | 🌐 Python | 📅 2026-11-16]
+* **Towards End-to-End Unified Scene Text Detection and Layout Analysis** \[CVPR 2022] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Towards_End-to-End_Unified_Scene_Text_Detection_and_Layout_Analysis_CVPR_2022_paper.pdf)] \[[code](https://github.com/tensorflow/models/tree/master/official/projects/unified_detector) ⭐ 77,631 | 🐛 1,274 | 🌐 Python | 📅 2026-11-16]
 * **Real-Time Scene Text Detection with Differentiable Binarization and Adaptive Scale Fusion** \[TPAMI 2022] \[[paper](https://arxiv.org/abs/2202.10304)] \[[code](https://github.com/MhLiao/DB) ⭐ 2,269 | 🐛 203 | 🌐 Python | 📅 2024-03-11]
 * **SwinTextSpotter: Scene Text Spotting via Better Synergy Between Text Detection and Recognition** \[CVPR 2022] \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_SwinTextSpotter_Scene_Text_Spotting_via_Better_Synergy_Between_Text_Detection_CVPR_2022_paper.html)] \[[code](https://github.com/mxin262/SwinTextSpotter) ⭐ 288 | 🐛 42 | 🌐 Python | 📅 2024-11-29]
 * **Arbitrary Shape Text Detection via Boundary Transformer** \[Transactions on Multimedia 2023] \[[paper](https://arxiv.org/abs/2205.05320)] \[[code](https://github.com/GXYM/TextBPN-Plus-Plus) ⭐ 207 | 🐛 27 | 🌐 Python | 📅 2025-11-05]
@@ -579,7 +579,7 @@ Diffusion models for rendering text in images with high quality and controllabil
 
 ### 2023
 
-* **AnyText: Multilingual Visual Text Generation And Editing** \[ICLR 2024 Spotlight] \[[paper](https://arxiv.org/abs/2311.03054)] \[[code](https://github.com/tyxsspa/AnyText) ⭐ 4,888 | 🐛 120 | 🌐 Python | 📅 2025-03-07]
+* **AnyText: Multilingual Visual Text Generation And Editing** \[ICLR 2024 Spotlight] \[[paper](https://arxiv.org/abs/2311.03054)] \[[code](https://github.com/tyxsspa/AnyText) ⭐ 4,889 | 🐛 120 | 🌐 Python | 📅 2025-03-07]
 * **TextDiffuser: Diffusion Models as Text Painters** \[arXiv 2023] \[[paper](https://arxiv.org/abs/2305.10855)] \[[project](https://jingyechen.github.io/textdiffuser/)]
 
 ### Related Text Synthesis Papers
@@ -800,4 +800,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
