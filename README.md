@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,814 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,408 | 🐛 103 | 📅 2026-09-02
 
 # Awesome Scene Text with stars
 
@@ -65,10 +65,10 @@ A curated list of papers and resources for scene text detection and recognition.
 
 ### Open Source OCR Systems
 
-* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 93,212 | 🐛 287 | 🌐 Python | 📅 2026-09-16]
-* **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) \[[code](https://github.com/JaidedAI/EasyOCR) ⭐ 30,172 | 🐛 539 | 🌐 Python | 📅 2026-11-13]
-* **MMOCR** - Comprehensive OCR toolbox with 7 detection and 5 recognition algorithms \[[code](https://github.com/open-mmlab/mmocr) ⭐ 4,740 | 🐛 194 | 🌐 Python | 📅 2024-11-27]
-* **OpenOCR** - Unified benchmark system for training and evaluating scene text models \[[code](https://github.com/Topdu/OpenOCR) ⭐ 1,499 | 🐛 107 | 🌐 Python | 📅 2026-09-21]
+* **PaddleOCR** - Powerful, lightweight OCR toolkit supporting 100+ languages \[[code](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 93,317 | 🐛 290 | 🌐 Python | 📅 2026-09-16]
+* **EasyOCR** - Ready-to-use OCR with 80+ languages support (PyTorch-based) \[[code](https://github.com/JaidedAI/EasyOCR) ⭐ 30,176 | 🐛 539 | 🌐 Python | 📅 2026-11-13]
+* **MMOCR** - Comprehensive OCR toolbox with 7 detection and 5 recognition algorithms \[[code](https://github.com/open-mmlab/mmocr) ⭐ 4,739 | 🐛 194 | 🌐 Python | 📅 2024-11-27]
+* **OpenOCR** - Unified benchmark system for training and evaluating scene text models \[[code](https://github.com/Topdu/OpenOCR) ⭐ 1,500 | 🐛 107 | 🌐 Python | 📅 2026-09-21]
 
 ### Comparison
 
@@ -270,7 +270,7 @@ For detailed comparisons of these tools, see:
 * **TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes** \[ECCV 2018] \[[paper](https://arxiv.org/abs/1807.01544)] \[[code](https://github.com/princewang1994/TextSnake.pytorch) ⭐ 441 | 🐛 20 | 🌐 Python | 📅 2023-10-03]
 * **Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes** \[ECCV 2018] \[[paper](https://arxiv.org/abs/1807.02242)] \[[code](https://github.com/MhLiao/MaskTextSpotter) ⭐ 411 | 🐛 42 | 🌐 Python | 📅 2021-01-27]
 * **An end-to-end TextSpotter with Explicit Alignment and Attention** \[CVPR 2018] \[[paper](https://arxiv.org/abs/1803.03474)] \[[code](https://github.com/tonghe90/textspotter) ⭐ 320 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2018-12-15]
-* **Detecting multi-oriented text with corner-based region proposals** \[Neurocomputing 2019] \[[paper](https://arxiv.org/abs/1804.02690)] \[[code](https://github.com/xhzdeng/crpn) ⭐ 139 | 🐛 16 | 🌐 C++ | 📅 2018-04-18]
+* **Detecting multi-oriented text with corner-based region proposals** \[Neurocomputing 2019] \[[paper](https://arxiv.org/abs/1804.02690)] \[[code](https://github.com/xhzdeng/crpn) ⭐ 138 | 🐛 16 | 🌐 C++ | 📅 2018-04-18]
 * **IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection** \[IJCAI 2018] \[[paper](https://arxiv.org/abs/1805.01167)] \[[code](https://github.com/FakerYFX/InceptText-Tensorflow) ⭐ 115 | 🐛 10 | 🌐 Python | 📅 2018-11-22]
 * **Rotation-Sensitive Regression for Oriented Scene Text Detection** \[CVPR 2018] \[[paper](https://arxiv.org/abs/1803.05265)] \[[code](https://github.com/MhLiao/RRD) ⭐ 101 | 🐛 10 | 🌐 C++ | 📅 2018-11-12]
 * **TextField: Learning A Deep Direction Field for Irregular Scene Text Detection** \[arXiv 2018] \[[paper](https://arxiv.org/abs/1812.01393)] \[[code](https://github.com/YukangWang/TextField) ⭐ 100 | 🐛 7 | 🌐 C++ | 📅 2019-03-15]
@@ -800,4 +800,4 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
